@@ -36,7 +36,8 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'fest_demo_main'
+    'fest_demo_main',
+    'tastypie'
 )
 
 MIDDLEWARE_CLASSES = (
@@ -81,3 +82,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
 STATIC_URL = '/static/'
+
+TASTYPIE_ALLOW_MISSING_SLASH = True
