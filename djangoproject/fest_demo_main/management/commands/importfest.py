@@ -1,3 +1,4 @@
+import codecs
 import logging
 from os import path
 
@@ -22,7 +23,7 @@ class Command(base.BaseCommand):
         if Medication.objects.count():
             raise base.CommandError('Medication table is not empty')
 
-        with open(args[0], 'r') as fest_data_file:
+        with codecs.open(args[0], 'r', 'utf8') as fest_data_file:
             count = 0
             for line in fest_data_file:
                 name, atc_code = line.strip().split('\t')
