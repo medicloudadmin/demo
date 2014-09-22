@@ -84,4 +84,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+STATIC_ROOT = '/tmp/static/'
+
 TASTYPIE_SWAGGER_API_MODULE = 'fest_demo.urls.v1_api'
