@@ -1,5 +1,6 @@
 django==1.6.7
 django-tastypie==0.12.0
+-e git+https://github.com/concentricsky/django-tastypie-swagger.git@99189d395a55293ab7486348c7f799f1067e6181#egg=django-tastypie-swagger
 lxml==3.4.0
 defusedxml==0.4.1
 

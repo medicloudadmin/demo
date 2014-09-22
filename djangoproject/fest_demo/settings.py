@@ -37,7 +37,8 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'fest_demo_main',
-    'tastypie'
+    'tastypie',
+    'tastypie_swagger'
 )
 
 MIDDLEWARE_CLASSES = (
@@ -83,4 +84,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-TASTYPIE_ALLOW_MISSING_SLASH = True
+TASTYPIE_SWAGGER_API_MODULE = 'fest_demo.urls.v1_api'

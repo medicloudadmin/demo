@@ -8,12 +8,13 @@ admin.autodiscover()
 
 v1_api = api.Api(api_name='v1')
 v1_api.register(fest_demo_api.MedicationResource())
-v1_api.register(fest_demo_api.MedicationSearchResource())
 
 
 urlpatterns = patterns(
     '',
     url(r'^$', include('fest_demo_main.urls')),
     url(r'^api/', include(v1_api.urls)),
+    url(r'^api/v1/doc/', include('tastypie_swagger.urls', namespace='tastypie_swagger'),
+        kwargs={"tastypie_api_module": v1_api, "namespace":"tastypie_swagger", 'version': '0.1'}),
     url(r'^admin/', include(admin.site.urls)),
 )
