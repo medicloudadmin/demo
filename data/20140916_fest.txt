@@ -1,0 +1,3753 @@
+3,4-Diaminopyridine	N07XX05
+5-HTP	N06AX01
+5-aminolevulinsyrehydroklorid SA	L01XD04
+A-vitamin Oljeoppløsning NAF	V04CB01
+ABx Support	A07FA
+ACC	R05CB01
+APO-go Pumpfill	N04BC07
+Abalgin	N02AC04
+Abboticin	J01FA01
+Abboticin ES	J01FA01
+Abelcet	J02AA01
+Aberela	D10AD01
+Abilify	N05AX12
+Abilify Maintena	N05AX12
+Abraxane	L01CD01
+Abstral	N02AB03
+Acadione	R05CB12
+Acalka	A12BA02
+Accolate	R03DC01
+Accusol 35	B05ZB
+Accusol 35 Kalium 2 mmol/l	B05ZB
+Accusol 35 Kalium 4 mmol/l	B05ZB
+Acetatbuffer pH 4,7 SA	D08AX
+Acetatbuffer pH 4,8 SA	D08AX
+Acetocaustin	D11AF
+Acetylcystein SA	S01XA08
+Acetylcystein Sandoz	R05CB01
+Acetylsalicylsyre	N02BA01
+Acetylsalisylsyre Actavis	B01AC06
+Acetylsalisylsyre SA	N02BA01
+Acetylsalisylsyre ullevål	N02BA01
+Aciclovir Hexal	J05AB01
+Aciclovir Hospira	J05AB01
+Aciglumin NAF	A09AB01
+Aclasta	M05BA08
+Act-Hib	J07AG01
+Actelsar HCT	C09DA07
+Actidose-aqua	A07BA01
+Actilyse	B01AD02
+Actilyse SA	B01AD02
+Activelle	G03FA01
+Actos	A10BG03
+Actrapid Penfill	A10AB01
+Adagen	L03AX04
+Adalat	C08CA05
+Adalat Oros	C08CA05
+Adartrel	N04BC04
+Adasuve	N05AH01
+Adcetris	L01XC12
+Adcirca	G04BE08
+Addaven	B05XA31
+Adderall XR	N06BA01
+Addex-Kaliumklorid	B05XA01
+Addex-Magnesium	B05XA05
+Addex-Natriumklorid	B05XA03
+Addex-Tham	B05XX02
+Adempas	C02KX05
+Adenocor	C01EB10
+Adenosin Life Medical	C01EB10
+Adenosin SA	C01EB10
+Adenuric	M04AA03
+Adepend	N07BB04
+Adipex-P	A08AA01
+Adport	L04AD02
+Adrenalin	S01EA01
+Adrenalin Base NAF	V03A
+Adrenalin SA	R03AA01
+Adrenalin base NAF	V03A
+Adrenalin-Oksybuprokain SA	N01B
+Adrenaline	C01CA24
+Adriamycin	L01DB01
+Advagraf	L04AD02
+Advate	B02BD02
+Aerius	R06AX27
+Aerobec	R03BA01
+Aerobec Autohaler	R03BA01
+Aethoxysklerol	C05BB02
+Aethoxysklerol euromedica	C05BB02
+Afi-D2 Forte	A11CC01
+Afinitor	L01XE10
+Afipran	A03FA01
+Agiolax	A06AC51
+Airapy	V03AN05
+Airflusal Forspiro	R03AK06
+Airol	D10AD01
+Airomir	R03AC02
+Airomir Autohaler	R03AC02
+Akineton	N04AA02
+Albothyl	G01AX03
+Albothyl campus	G01AX03
+Albumin Baxter	B05AA01
+Albunorm	B05AA01
+Albyl-E	B01AC06
+Alcaine	S01HA04
+Alcos-Anal	C05AX03
+Aldactone	C03DA02
+Aldactone campus	C03DA02
+Aldara	D06BB10
+Aldomet	C02AB01
+Aldurazyme	A16AB05
+Alea	C09DB02
+Alea Comp	C09DX03
+Alendronat Arrow	M05BA04
+Alendronat Bluefish	M05BA04
+Alendronat Mylan	M05BA04
+Alendronat Sandoz	M05BA04
+Alendronat Teva	M05BA04
+Alfuzosin	G04CA01
+Algesal	M02AC
+Alicaforsen	A07E
+Alimta	L01BA04
+Alkeran	L01AA03
+Alkeran life	L01AA03
+Alkeran orifarm	L01AA03
+Allopur	M04AA01
+Almogran	N02CC05
+Alopam	N05BA04
+Aloxi	A04AA05
+Alpha Lipoic Sustain	A16AX01
+Alpha lipoic acid	A16AX01
+Alphagan	S01EA05
+Alphosyl	D05AA
+Alsol vandig	D08AB
+Alsolsprit SA	D08AB
+Altargo	D06AX13
+Altifex	R06AX26
+Alustal 5-gress	V01AA02
+Alustal D pteronyssinus	V01AA03
+Alustal bjørk	V01AA05
+Alustal burot	V01AA10
+Alustal hest	V01AA11
+Alustal hund	V01AA11
+Alustal katt	V01AA11
+Alustal midd mix	V01AA03
+Alustal or	V01AA05
+Alustal timotei	V01AA02
+Alutard SQ Bigift	V01AA07
+Alutard SQ Bjørk	V01AA05
+Alutard SQ Burot	V01AA10
+Alutard SQ Dermatophagoides pteronyssinus	V01AA03
+Alutard SQ Hestehår	V01AA11
+Alutard SQ Hundehår	V01AA11
+Alutard SQ Kattehår	V01AA11
+Alutard SQ Timotei	V01AA02
+Alutard SQ Vepsegift	V01AA07
+Alvesco	R03BA08
+Alyostal D farinae	V04CL
+Alyostal D pteronyssinus	V04CL
+Alyostal acarus siro 325	V04CL
+Alyostal bjørk	V04CL
+Alyostal burot	V04CL
+Alyostal eggehvite	V04CL
+Alyostal ert 153	V04CL
+Alyostal hamster	V04CL
+Alyostal hassel 649	V04CL
+Alyostal hasselnøtt	V04CL
+Alyostal hest	V04CL
+Alyostal hund	V04CL
+Alyostal hvetemel	V04CL
+Alyostal kanin	V04CL
+Alyostal katt	V04CL
+Alyostal lateks	V04CL
+Alyostal marsvin	V04CL
+Alyostal muggsopp	V04CL
+Alyostal muggsoppmix	V04CL
+Alyostal negativ kontroll	V04CL
+Alyostal or	V04CL
+Alyostal peanøtt	V04CL
+Alyostal positiv kontroll	V04CL
+Alyostal reke	V04CL
+Alyostal soya	V04CL
+Alyostal timotei	V04CL
+Alyostal torsk	V04CL
+Alyostal valnøtt	V04CL
+Alzyr	R06AE07
+AmBisome	J02AA01
+Amaryl	A10BB12
+Ameluz	L01XD04
+Ametop	D04AB06
+Ametop life	D04AB06
+Amias	C09CA06
+Amikacin campus	J01GB06
+Amikacina	J01GB06
+Amiloride	C03DB01
+Aminess	V06DD
+Aminofyllin SA	R03DA05
+Aminophyllin	R03DA05
+Aminophylline	R03DA05
+Aminophylline life	R03DA05
+Amiodaron SA	C01BD01
+Amiodaron Stragen	C01BD01
+Amiodarone	C01BD01
+Amiodarone Minijet	C01BD01
+Amiodaronhydroklorid SA	C01BD01
+Amlodipin Actavis	C08CA01
+Amlodipin SA	C08CA01
+Amlodipin Sandoz	C08CA01
+Amlodipine Vitabalans	C08CA01
+Ammonaps	A16AX03
+Ammonium phosphate	A12
+Amorolfine Apotekproduksjon	D01AE16
+Amoxicillin Mylan	J01CA04
+Amoxicillin Sandoz	J01CA04
+Amoxicillin comp	J01CR02
+Amoxiclav	J01CR02
+Ampho-Moronal	A01AB04
+Ampicillin Strides	J01CA01
+Ampicillin VM bms SA	J01CA01
+Amsidine	L01XX01
+Amsidine campus	L01XX01
+Amsidyl	L01XX01
+Amyl Nitrite Inhalant USP	V03AB22
+Anabolic Flow	A11AA03
+Anafranil	N06AA04
+Anastrozol Bluefish	L02BG03
+Anastrozol Sandoz	L02BG03
+Anastrozol medac	L02BG03
+Anastrozole Teva	L02BG03
+Anatera	S01JA01
+Andolex	A01AD02
+Andriol	G03BA03
+Androcur	G03HA01
+Andropatch	G03BA03
+Androskat	G04BE30
+Anervan Novum	N02CA72
+Anexate	V03AB25
+Angiox	B01AE06
+Angusta	G02AD06
+Anoheal	C05AX
+Anoro	R03AL03
+Ansatipin	J04AB04
+Ansatipin euromedica	J04AB04
+Antabus	N07BB01
+Antepsin	A02BX02
+Anticholium	V03AB19
+Anticholium life	V03AB19
+Anticholium specific	V03AB19
+Antix	D06BB03
+Apidra	A10AB06
+Apocillin	J01CE02
+Apodorm	N05CD02
+Apolar	D07AB08
+Apolar med dekvalin	D07BB02
+Apomorfin	N04BC07
+Apomorfin PharmSwed	N04BC07
+Apovit B-combin sterk	A11EA
+Apresolin	C02DB02
+Aprokam	S01AA27
+Aprotinin life	B02AB01
+Aprovel	C09CA04
+Apydan	N03AF02
+Aquadeks	A11AA03
+Aquadeks Softgels	A11AA03
+Aquagen SQ Bigift	V01AA07
+Aquagen SQ Vepsegift	V01AA07
+Aranesp	B03XA02
+Arava	L04AA13
+Arcoxia	M01AH05
+Arginin NAF	B05XB01
+Aricept	N06DA02
+Aridol	V04CX
+Arimidex	L02BG03
+Arixtra	B01AX05
+Arlevert	N07CA52
+Armour Thyroid	H03AA03
+Arnikatinktur NAF	M02
+Aromasin	L02BG06
+Arpac SA	D11AF
+Arpac ullevål	D11AF
+Artane	N04AA01
+Artelac	S01XA20
+Arterenol	C01CA03
+Artesun	P01BE03
+Artesun campus	P01BE03
+Arthrotec	M01AB55
+Artiss	B02BC30
+Arzerra	L01XC10
+Arzol	D08AL01
+Asacol	A07EC02
+Asasantin Retard	B01AC30
+Asmanex Twisthaler	R03BA07
+Asparaginase	L01XX02
+Aspartinsyre SA	B05BA10
+Aspirin	N02BA01
+Atacand	C09CA06
+Atacand Plus	C09DA06
+Atacand Plus Mite	C09DA06
+Atamir	M01CC01
+Atarax	N05BB01
+Atenativ	B01AB02
+Atenolol Mylan	C07AB03
+Atgam	L04AA03
+Atgam campus	L04AA03
+Ativan	N05BA06
+Atorvastatin Krka	C10AA05
+Atorvastatin Pfizer	C10AA05
+Atorvastatin Sandoz	C10AA05
+Atorvastatin Teva	C10AA05
+Atosiban SUN	G02CX01
+Atracurium Besilate	M03AC04
+Atriance	L01BB07
+Atripla	J05AR06
+Atromidin	C10AB01
+Atropin	A03BA01
+Atropin Minims	S01FA01
+Atropin NAF	A03BA01
+Atropin Nycomed	A03BA01
+Atropin SA	A03BA01
+Atropin Stragen	A03BA01
+Atropinsulfat SA	A03BA01
+Atrovent	R01AX03
+Aubagio	L04AA31
+Auralife	A11
+Aureomycin	S01AA02
+Aurorix	N06AG02
+Avamys	R01AD12
+Avastin	L01XC07
+Avelox	J01MA14
+Avibon	D10AD02
+Avodart	G04CB02
+Avonex	L03AB07
+Axanum	B01AC56
+Axsain	N01BX04
+Azactam	J01DF01
+Azalia	G03AC09
+Azarga	S01ED51
+Azatioprin SA	L04AX01
+Azilect	N04BD02
+Azithromycin	J01FA10
+Azithromycin Hexal	J01FA10
+Azithromycin life	J01FA10
+Azitromax	J01FA10
+Azmacort	R03BA06
+Azopt	S01EC04
+Azyter	S01AA26
+Azzalure	M03AX01
+B-Plex 100	A11EA
+B6-Vicotrat	A11HA02
+BCG-Medac	L03AX03
+BCG-vaksine SSI	J07AN01
+Bacimycin	D06AX05
+Baclofen	M03BX01
+Baclofen Intrathecal	M03BX01
+Bactrim	J01EE01
+Bactroban	D06AX09
+Bactroban Nasal	R01AX06
+Bactroban Nasal Euromedica	R01AX06
+Baklofen Mylan	M03BX01
+Balance 1,5% glukose + 1,25 mmol Ca/l	B05DB
+Balance 1,5% glukose + 1,75 mmol Ca/l	B05DB
+Balance 2,3% glukose + 1,25 mmol Ca/l	B05DB
+Balance 2,3% glukose + 1,75 mmol Ca/l	B05DB
+Balance 4,25% glukose + 1,25 mmol Ca/l	B05DB
+Balance 4,25% glukose + 1,75 mmol Ca/l	B05DB
+Bambec	R03CC12
+Baraclude	J05AF10
+Barbital NAF	N05CA04
+Barnesalve NAF med Salisylsyre	D02AF
+Basiron AC	D10AE01
+Basiron AC Wash	D10AE01
+Becenun/Bicnu	L01AD01
+Beclomet Easyhaler	R03BA01
+Becozyme	A11EA
+Beet flow	A16
+Behepan	B03BA01
+Bellymed	A06AD15
+Bemfola	G03GA05
+Benadon	A11HA02
+BeneFIX	B02BD09
+Benerva	A11DA01
+Benerva euromedica	A11DA01
+Benetor	C09CA08
+Benetor Comp	C09DA08
+Benlysta	L04AA26
+Benzetacil	J01CE08
+Benzylbenzoat NAF	P03AX01
+Benzylpenicillin Panpharma	J01CE01
+Benzylpenicillin VM actavis SA	J01CE01
+Benzylpenicillin VM panpharma SA	J01CE01
+Bepanthen	D03AX03
+Bepanthen Euromedica	D03AX03
+Bergensk Brystbalsam NAF	R05CA10
+Beriglobin	J06BA01
+Berinert	B06AC01
+Berocca	A11EB
+Berotec	R03AC04
+Berotec N	R03AC04
+Betadine Ophtalmic	S01
+Betadine sterile ophtalmic sol	S01AX18
+Betadine sterile ophtalmic sol campus	S01AX18
+Betaferon	L03AB08
+Betaine Hydrochloride	A09AB02
+Betapred	H02AB01
+Betaserc	N07CA01
+Betmiga	G04BD12
+Betnovat	D07AC01
+Betnovat m/Dmso SA	D07XC01
+Betnovat med Chinoform	D07BC01
+Betolvex	B03BA01
+Betoptic	S01ED02
+Betoptic S	S01ED02
+Bettamousse	D07AC01
+Bexsero	J07AH09
+Bezalip	C10AB02
+Bezalip mono	C10AB02
+Bicalutamid Sandoz	L02BB03
+Bicalutamide Bluefish	L02BB03
+Bicalutamide Teva	L02BB03
+Bicnu	L01AD01
+Bififlor	A07FA51
+Bikalutamid Medac	L02BB03
+Biklin	J01GB06
+Biltricide	P02BA01
+Biltricide campus	P02BA01
+Bio-Biloba	N06DX02
+Bio-C-Vitamin	A11GA01
+Bio-E-Vitamin	A11HA03
+Biocarn	A16AA01
+Biocarn euromedica	A16AA01
+Bioclavid	J01CR02
+Biotin SA	A11HA05
+Bisolvon	R05CB02
+Bisoprolol Sandoz	C07AB07
+Bisoprolol Vitabalans	C07AB07
+Bleomycin Baxter	L01DC01
+Blocadren Depot	S01ED01
+Bondil	G04BE01
+Bondronat	M05BA06
+Bonefos	M05BA02
+Bonviva	M05BA06
+Boostrix	J07AJ52
+Boostrix Polio	J07CA02
+Borsyre	S02AA03
+Borsyre SA	S02AA03
+Bosulif	L01XE14
+Botox	M03AX01
+Braunovidon	D08AG02
+Bravelle	G03GA04
+Brekkmiddel til barn NAF	V03AB01
+Brevactid	G03GA01
+Brevibloc	C07AB09
+Brexidol	M01AC01
+Bricanyl	R03AC03
+Bricanyl Depot	R03CC03
+Bricanyl Turbuhaler	R03AC03
+Bridion	V03AB35
+Brilique	B01AC24
+Brimoratio	S01EA05
+Brinavess	C01BG11
+BritLofex	N07BC04
+Britaject	N04BC07
+Brolene	S01AX15
+Bromhexine Apotekproduksjon	R05CB02
+Bronkyl	R05CB01
+Bronwel	Ikke relevant
+Bronwel Comp	Ikke relevant
+Brufen	M01AE01
+Brufen Retard	M01AE01
+Brulidine	D08AC01
+Bss	B05CB10
+Bss plus	B05CB10
+Buccolam	N05CD08
+Budesonid Arrow	R03BA02
+Budesonid Sandoz	R01AD05
+Budesonida	R03BA02
+Buprenorphine Orifarm	N07BC01
+Buprenorphine Sandoz	N07BC01
+Buquel	N02AB03
+Burana	M01AE01
+Burinex	C03CA02
+Buronil	N05AD03
+Buscopan	A03BB01
+Busilvex	L01AB01
+Buspiron Actavis	N05BE01
+Buspiron Mylan	N05BE01
+Buspirone Orion	N05BE01
+Buventol Easyhaler	R03AC02
+Bydureon	A10BX04
+Byetta	A10BX04
+CRH Ferring	V04CD04
+CRH Ferring Euromedica	V04CD04
+CRH Ferring campus	V04CD04
+Cabaser	N04BC06
+Cacit	A12AA04
+Caelyx	L01DB01
+Cafergot	N02CA52
+Calamin NAF	D04AX
+Calcigran Forte	A12AX
+Calcipotriol Sandoz	D05AX02
+Calcium Citrate	A12AX
+Calcium D-glucarate	A12AA
+Calcium gluconate	A12AA03
+Calcium-Sandoz	A12AA02
+Calcium-Sandoz 2care4	A12AA02
+Calciumchlorid	B05XA07
+Calciumfolinat Hospira	V03AF03
+Calciumfolinat-GRY	V03AF03
+Calciumfolinate Teva	V03AF03
+Calciumgluconat 2care4	A12AA03
+Calciumklorid B. Braun	B05XA07
+Calciumklorid SA	B05XA07
+Calcort	H02AB13
+Campral	N07BB03
+Campto	L01XX19
+Cancidas	J02AX04
+Candemox comp	C09DA06
+Candesartan Aspen	C09CA06
+Candesartan Krka	C09CA06
+Candesartan Navamedic	C09CA06
+Candesartan Orion	C09CA06
+Candesartan Sandoz	C09CA06
+Candesartan/Hydrochlorothiazide Krka	C09DA06
+Candesartan/Hydrochlorothiazide Navamedic	C09DA06
+Candesartan/Hydrochlorothiazide Orion	C09DA06
+CandiZYME	A09AA02
+Canesten	G01AF02
+Canesten Combi	G01AF02
+Canoderm	D02AE01
+Canthacur	D11AF
+Canthacur PS	D11AF
+Capastat	J04AB30
+Capecitabine Accord	L01BC06
+Capecitabine Actavis	L01BC06
+Capecitabine medac	L01BC06
+Caprelsa	L01XE12
+Capreomycin	J04AB30
+Capreomycin campus	J04AB30
+Caprystatin	A
+Capsaicin SA	N01BX04
+Capsina	N01BX04
+Captopril Mylan	C09AA01
+Carbaglu	A16AA05
+Carbimazol	H03BB01
+Carbocain	N01BB03
+Carbocain Dental	N01BB03
+Carbocain adrenalin	N01BB53
+Carbomix	A07BA01
+Carboplatin Actavis	L01XA02
+Carboplatin Fresenius Kabi	L01XA02
+Carboplatin Hospira	L01XA02
+Carboplatin Teva	L01XA02
+Cardioplegia Infusion life	B05XA16
+Cardioplegivæske NAF	B05XA16
+Cardizem Retard	C08DB01
+Cardizem Uno	C08DB01
+Carduran CR	C02CA04
+Carisoprodol	M03BA02
+Carmubris	L01AD01
+Carnitene	A16AA01
+Carnitene specific	A16AA01
+Carnoys løsning SA	L
+Carotaben	A11CA02
+Carvedilol Aurobindo	C07AG02
+Carvedilol Hexal	C07AG02
+Casodex	L02BB03
+Catabolic flow	A11
+Cataflam	M01AB05
+Catapres	C02AC01
+Catapres-TTS-2	C02AC01
+Catapresan	C02AC01
+Catapresan euromedica	C02AC01
+Caverject Dual	G04BE01
+Cayston	J01DF01
+CeeNU	L01AD02
+Cefalotin VM acs SA	J01DB03
+Cefalotin VM vill SA	J01DB03
+Cefalotin Villerton	J01DB03
+Cefotaxim Sandoz	J01DD01
+Cefotaxim VM vill SA	J01DD01
+Cefotaxim Villerton	J01DD01
+Cefotaxime VM acs SA	J01DD01
+Ceftazidim Fresenius Kabi	J01DD02
+Ceftazidim Stragen	J01DD02
+Ceftazidim Villerton	J01DD02
+Ceftazidime	J01DD02
+Ceftriaxon Copyfarm	J01DD04
+Ceftriaxon Stragen	J01DD04
+Ceftriaxon Villerton	J01DD04
+Cefuroxim	S01AA27
+Cefuroxim Fresenius Kabi	J01DC02
+Cefuroxim Stragen	J01DC02
+Cefuroxim VM fresenius SA	J01DC02
+Cefuroxim VM glaxo SA	J01DC02
+Cefuroxim Villerton	J01DC02
+Cefuroxime Duplex	J01DC02
+Celebra	M01AH01
+Celeston Chronodose	H02AB01
+CellCept	L04AA06
+Celluvisc	S01XA20
+Celsentri	J05AX09
+Centyl Med Kaliumklorid	C03AB01
+Centyl Mite Med Kaliumklorid	C03AB01
+Cephyl	N02BA51
+Ceplene	L03AX14
+Cerazette	G03AC09
+Cerezyme	A16AB02
+Cernevit	B05XC
+Certican	L04AA18
+Cerubidin	L01DB02
+Cervarix	J07BM02
+Cesol	P02BA01
+Cetimax	R06AE07
+Cetirizin Actavis	R06AE07
+Cetirizin BMM Pharma	R06AE07
+Cetirizin Bluefish	R06AE07
+Cetirizin Mylan	R06AE07
+Cetirizin Sandoz	R06AE07
+Cetirizin ratiopharm	R06AE07
+Cetraxal	S02AA15
+Cetraxal Comp	S02CA05
+Cetrotide	H01CC02
+Cf indicator sweat test	V04CX
+Champix	N07BA03
+Chantix	N07BA03
+Chloramphenicol	J01BA01
+Chloraprep med farge	D08AC52
+Chlorhexidin	D08AC02
+Chlormadinon	G03DB06
+Chloromycetin	J01BA01
+Chloroprocaine Hydrochloride	N01BA04
+Chlorpromazine	N05AA01
+Chlorpromazine Euromedica	N05AA01
+Chlorpromazine euromedica	N05AA01
+Chlorprothixen	N05AF03
+Cholestagel	C10AC04
+Cialis	G04BE08
+Ciklosporin	S01XA18
+Cikosporin	S01XA18
+Cilox	S02AA15
+Cimetidin	A02BA01
+Cimzia	L04AB05
+Cinryze	B06AC01
+Cipralex	N06AB10
+Cipralex Meltz	N06AB10
+Cipramil	N06AB04
+Ciprofloxacin Actavis	J01MA02
+Ciprofloxacin Claris	J01MA02
+Ciprofloxacin Hospira	J01MA02
+Ciprofloxacin Teva	J01MA02
+Ciprofloxacin Villerton	J01MA02
+Ciproxin	J01MA02
+Circadin	N05CH01
+Cisordinol	N05AF05
+Cisordinol Depot	N05AF05
+Cisordinol-Acutard	N05AF05
+Cisplatin Accord	L01XA01
+Cisplatin Hospira	L01XA01
+Cisplatin Strides	L01XA01
+Citalopram Sandoz	N06AB04
+Citalopram Teva	N06AB04
+Citalopram Vitabalans	N06AB04
+Citanest Dental Octapressin	N01BB54
+Citrafleet	A06AB58
+Citrat-glukose	B06A
+Clarithromycin Teva	J01FA09
+Clarityn	R06AX13
+Cleocin IV Solution i 5% dextrose	J01FF01
+Clindamycin Stragen	J01FF01
+Clindamycin Villerton	J01FF01
+Clinimix N9G15E	B05BA10
+Clinoleic	B05BA02
+Cliovelle	G03FA01
+Clobex	D07AD01
+Clomifen	G03GB02
+Clonistada retard	C02AC01
+Clopidogrel Actavis	B01AC04
+Clopidogrel Mylan	B01AC04
+Cloramfenicolo life	J01BA01
+Cloxacillin	J01CF02
+Cloxacillin Stragen	J01CF02
+Cloxacillin VM stragen SA	J01CF02
+Cloxacillin VM vill SA	J01CF02
+Cloxacillin Villerton	J01CF02
+Clozapin Hexal	N05AH02
+Clozapine Actavis	N05AH02
+Co-phenotrope	A07DA01
+CoAprovel	C09DA04
+Codaxol	N02AA59
+Coffein Citrat	N06BC01
+Colazid	A07EC04
+Colestid	C10AC02
+Colifoam	A07EA02
+Colimycin	J01XB01
+Colobreathe	J01XB01
+Colomycin	J01XB01
+Combigan	S01ED51
+Combivent UDV	R03AL02
+Combivir	J05AR01
+Combizym	A09AA02
+Cometriq	L01XE26
+Competact	A10BD05
+Comtess	N04BX02
+Concerta	N06BA04
+Condyline	D06BB04
+Confidex	B02BD01
+Confortid	M01AB01
+Conludag	G03AC01
+Conoxia	V03AN01
+Consed	N05CD08
+Constella	A06AX04
+Contrathion	V03AB04
+Copaxone	L03AX13
+Copegus	J05AB04
+Cordarone	C01BD01
+Corgard	C07AA12
+Corixil	C09DA03
+Corotrop	C01CE02
+Corotrope campus	C01CE02
+Corsodyl	A01AB03
+Cortef	H02AB09
+Cortison	H02AB10
+Cortisonacetat	H02AB10
+Corvert	C01BD05
+Cosmegen	L01DA01
+CosmoFer	B03AC
+Cosmofer	B03AC
+Cosopt	S01ED51
+Cosylan	R05DA01
+Coumadin	B01AA03
+Cozaar	C09CA01
+Cozaar Comp	C09DA01
+Cozaar Comp Forte	C09DA01
+Creon 10000	A09AA02
+Creon 25000	A09AA02
+Creon 40000	A09AA02
+Crestor	C10AA07
+Crinone	G03DA04
+Crixivan	J05AE02
+Cubicin	J01XX09
+Curacit	M03AB01
+Curosurf	R07AA02
+Cyanokit	V03AB33
+Cyclogest 400	G03DA04
+Cyclogyl	S01FA04
+Cyclopentolat Minims	S01FA04
+Cyklokapron	B02AA02
+Cyklopentolat-fenylefrin	S01FA54
+Cyklopentolat-fenylefrin SA	S01FA54
+Cylert	N06BA05
+Cymbalta	N06AX21
+Cymevene	J05AB06
+Cyproheptadine HCl	R06AX02
+Cystadane	A16AA06
+Cystagon	A16AA04
+Cysteamin	S01AX
+Cytarabin Fresenius Kabi	L01BC01
+Cytarabine Pfizer	L01BC01
+Cytotec	A02BB01
+Cytra-K crystals	A02A
+D-Cure	A11CC05
+D3-50	A11CC05
+DHC Continus	N02AA08
+DHEA	A14AA07
+DHEA Sublingual	A14AA07
+DMSA	V03A
+Dacarbazine	L01AX04
+Dacarbazine Lipomed	L01AX04
+Dacogen	L01BC08
+Daivobet	D05AX52
+Daktacort	D01AC20
+Daktar	A01AB09
+Dalacin	J01FF01
+Dalmadorm	N05CD01
+Danol	G03XA01
+Dantrium	M03CA01
+Dantrium life	M03CA01
+Dantrolen	M03CA01
+Dantrolen campus	M03CA01
+Daosin	A09AA
+Dapson	J04BA02
+DaunoXome	L01DB02
+Daxas	R03DX07
+Deanxit	N06CA02
+Deca-Durabolin	A14AB01
+Decapeptyl Depot	L02AE04
+Decapeptyl depot	L02AE04
+Defibrotide	B01AX01
+Defitelio	B01AX01
+Dehydrated Alcohol	V03AB16
+Dehydrobenzperidol	N05AD08
+Dekristol	A11CC05
+Deksklorfeniramin NAF	R06AB02
+Delepsine	N03AG01
+Delphicort	H02AB08
+Dentinox NAF	A01AD11
+Depakote	N03AG01
+Depakote Sprinkle	N03AG01
+Depo-Medrol	H02AB04
+Depo-Medrol Cum Lidocain	H02BX01
+Depo-Provera	G03AC06
+DepoCyte	L01BC01
+Deprakine Retard	N03AG01
+Dermovat	D07AD01
+Dermovate	D07AD01
+Descutan	D08AC02
+Deseril	N02CA04
+Desferal	V03AC01
+Desmopressin Actavis	H01BA02
+Desmopressin Orifarm	H01BA02
+Desmopressin SA	H01BA02
+Detremin	A11CC05
+Detrusitol	G04BD07
+Detrusitol SR	G04BD07
+Dexa-sine SE	S01BA01
+Dexagalen	H02AB02
+Dexametason Abcur	H02AB02
+Dexametason SA	H02AB02
+Dexamethason	H02AB02
+Dexamethason 2care4	H02AB02
+Dexamethason Euromedica	H02AB02
+Dexamethason abcur	H02AB02
+Dexamethasone	H02AB02
+Dexamethasone Minims	S01BA01
+Dexamethasone life	H02AB02
+Dexamfetamine	N06BA02
+Dexamfetamine campus	N06BA02
+Dexamfetamine sulphate	N06BA02
+Dexaven	H02AB02
+Dexdor	N05CM18
+Dexedrine Spansule	N06BA02
+Dexofan	R05DA09
+Dexpanthenol	A11HA30
+Dexyl	R01AA07
+Dhea	A14AA07
+Diabact UBT	V04CX
+Diacomit	N03AX17
+Diamox	S01EC01
+Diamox SR	S01EC01
+Diamox SR Euromedica	S01EC01
+Diamox SR Life	S01EC01
+Diamox SR abcur	S01EC01
+Diamox abcur	S01EC01
+Diamox specific	S01EC01
+Diane	G03HB01
+Dibenzyran	C04AX02
+Dibro-be mono	N05CM11
+Dicillin	J01CF01
+Diclin	J01CF01
+Diclocil	J01CF01
+Diclofenac BMM Pharma	M01AB05
+Diclofenac Bluefish	M01AB05
+Diclofenac ratiopharm	M01AB05
+DiclofenacKalium ratiopharm	M01AB05
+Dicoumarol	B01AA01
+Dicuno	M01AB05
+Dicyclomine	A03AA07
+Didronate	M05BA01
+Didronate + Calsium Kombinasjonspakning	M05BB01
+Difenhydramin SA	R06AA02
+Difenhydramin dak	R06AA02
+Differin	D10AD03
+Dificlir	A07AA12
+Diflucan	J02AC01
+Diflunisal	N02BA11
+Digesti-zyme	A09AC02
+DigiFab	V03AB24
+Digibind	V03AB24
+Digifab campus	V03AB24
+Digimerck	C01AA04
+Digimerck Pico	C01AA04
+Digitoxin	C01AA04
+Digoxin Nycomed	C01AA05
+Diloxanide	P01AC01
+Diltiazem	C08DB01
+Diltiazem SA	C08DB01
+Dimaval	V03AB09
+Dimetylsulfoksid SA	G04BX13
+Diovan	C09CA03
+Diovan Comp	C09DA03
+Dipentum	A07EC03
+Dipeptiven	B05XB02
+Diphenhydramine Hydrochloride	R06AA02
+Dipidolor	N02AC03
+Diproderm	S02BA07
+Diprosalic	D07XC01
+Disipal	N04AB02
+Disofrol	R01BA52
+Dispril	N02BA01
+Disprin	N02BA01
+Disulfiram	N07BB01
+Disulfiram euromedica	N07BB01
+Dithrocream	D05AC01
+Dithrocream HP	D05AC01
+Dithrocream forte	D05AC01
+Ditropan	G04BD04
+Diural	C03CA01
+Divalproex Sodium Sprinkle	N03AG01
+Divisun	A11CC05
+Dmap-4	V03AB
+Dmsa	V03A
+Dobutamin	C01CA07
+Dobutamin Hameln	C01CA07
+Docetaxel Accord	L01CD02
+Docetaxel Actavis	L01CD02
+Docetaxel Hospira	L01CD02
+Docetaxel Teva	L01CD02
+Dociton retard	C07AA05
+Dogmatil Forte	N05AL01
+Doksycyklin Hexal	J01AA02
+Dolcontin	N02AA01
+Dominal forte	N05AX07
+Domperidone	A03FA03
+Donacom	M01AX05
+Donepezil Accord	N06DA02
+Donepezil Actavis	N06DA02
+Donepezil Aspen	N06DA02
+Donepezil Navamedic	N06DA02
+Donepezil Orifarm	N06DA02
+Donepezil Sandoz	N06DA02
+Dopamin	C01CA04
+Dopram	R07AB01
+Doribax	J01DH04
+Dormicum	N05CD08
+Dormutil N	R06AA02
+Dorzolamid Orifarm	S01EC03
+Dorzolamid/Timolol Sandoz	S01ED51
+Dostinex	G02CB03
+Dotarem	V08CA02
+Doxazosin	C02CA04
+Doxorubicin Accord	L01DB01
+Doxycyclin-ratio SF	J01AA02
+Doxyferm	J01AA02
+Doxylin	J01AA02
+Dridase	G04BD04
+Dridol	N05AD08
+Dukoral	J07AE01
+Dulbeccos fosfatbuffer SA	V07AB
+Dulcolax	A06AB02
+DuoResp Spiromax	R03AK07
+DuoTrav	S01ED51
+Duodart	G04CA52
+Duodopa	N04BA02
+Duovent/berodual	R03AL01
+Duphalac	A06AD11
+Duraphat	A01AA01
+Durbis Retard	C01BA03
+Duroferon	B03AA07
+Durogesic	N02AB03
+Duspatal	A03AA04
+Duspatalin	A03AA04
+Duspatalin Retard	A03AA04
+Dymista	R01AD58
+Dynastat	M01AH04
+Dysport	M03AX01
+E-Z-Gas	V07AY
+E-Z-HD	V08BA01
+E-Z-Paque High Density	V08BA01
+E-Z-Paque High Density 2care4	V08BA01
+E-Z-Paste	V08BA01
+Ebastin Orifarm	R06AX22
+Ebetrex	L01BA01
+Ebixa	N06DX01
+Ebixa Startpakning	N06DX01
+Ecalta	J02AX06
+Echovist	V08DA02
+Eddiksyre i makrogolbase SA	V03A
+Eddiksyre ullevål	G01AD02
+Edetat NAF	V03AB03
+Edronax	N06AX18
+Edurant	J05AG05
+Efedrin	C01CA26
+Efedrin NAF	R03CA02
+Efedrin NAF Solbær	R03CA02
+Efedrin SA	C01CA26
+Efedrin Stragen	C01CA26
+Efemolin	S01BB03
+Efexor Depot	N06AX16
+Effentora	N02AB03
+Effortil	C01CA01
+Efient	B01AC22
+Efudix	L01BC02
+Egazil	A03BA03
+Eklira Genuair	R03BB05
+Ekvacillin	J01CF02
+Elaprase	A16AB09
+Eldepryl	N04BD01
+Eldisine	L01CA03
+Eldisine campus	L01CA03
+Eldisine euromedica	L01CA03
+Eldisine life	L01CA03
+Electrolyte deficiency	A11JB
+Elidel	D11AH02
+Eligard	L02AE02
+Eliquis	B01AF02
+Elmiron	C05BA04
+Elocon	D07AC13
+Elonva	G03GA09
+Eloxatin	L01XA03
+Elspar	L01XX02
+Elvanse	N06BA12
+Emadine	S01GX06
+Emagel	B05AA06
+Emconcor	C07AB07
+Emconcor CHF	C07AB07
+Emend	A04AD12
+Emgesan	G04BX01
+Emla	N01BB20
+Emselex	G04BD10
+Emtriva	J05AF09
+Enalapril Comp Sandoz	C09BA02
+Enalapril Comp ratiopharm	C09BA02
+Enalapril Krka	C09AA02
+Enalapril SA	C09AA02
+Enalapril Sandoz	C09AA02
+Enalapril/Hydrochlortiazid Hexal	C09BA02
+Enalaprilat	C09AA02
+Enalaprilmaleat SA	C09AA02
+Enanton Depot Set	L02AE02
+Enbrel	L04AB01
+Endofalk	A06AD65
+Engerix-B	J07BC01
+Enlon	V04CX
+Entocort	A07EA06
+Entyvio	L04AA33
+Enzym-Complete/DPP-IV	A09AA02
+Epaxal	J07BC02
+EpiPen	C01CA24
+EpiPen Jr	C01CA24
+Epiduo	D10AD53
+Epinat	N03AB02
+Epirubicin Actavis	L01DB03
+Epirubicin Hospira	L01DB03
+Epirubicin Teva	L01DB03
+Epirubicin medac	L01DB03
+Epistatus	N05CD08
+Epistatus campus	N05CD08
+Epivir	J05AF05
+Epoprostenol Campuspharma	B01AC09
+Eposin	L01CB01
+Eprex	B03XA01
+Equasym Depot	N06BA04
+Erbitux	L01XC06
+Ercoquin	P01BA02
+Ercoril	A03AB05
+Eremfat	J04AB02
+Ergenyl chrono	N03AG01
+Erivedge	L01XX43
+Erwinase	L01XX02
+Ery-Max	J01FA01
+Erythroforte	J01FA01
+Erythroped A	J01FA01
+Esbriet	L04AX05
+Escitalopram Actavis	N06AB10
+Escitalopram Teva	N06AB10
+Esidrex	C03AA03
+Eskazole	P02CA03
+Esmeron	M03AC09
+Esmya	G03XB02
+Esomeprazol Actavis	A02BC05
+Esomeprazol Krka	A02BC05
+Esomeprazol Pensa	A02BC05
+Esomeprazol Sandoz	A02BC05
+Esopral	A02BC05
+Estalis	G03FA01
+Estradot	G03CA03
+Estradurin	L02AA02
+Estring	G03CA03
+Estrofem	G03CA03
+Estrogel	G03CA03
+Esucos	N05AB01
+Etalpha	A11CC03
+Etanol	V03AB16
+Etanol SA	V07A
+Etanol steril	V03AZ01
+Eter NAF	V07AZ
+Eter NAF til medisinsk bruk	V03AX
+Ethinyl-Oestradiol	G03CA01
+Etinyløstradiol	G03CA01
+Etopofos	L01CB01
+Eucreas	A10BD08
+Eukalyptushonning NAF	R05CA10
+Eulexin	L02BB01
+Eurax	D04AX
+Euro-collins-løsning	B05
+European standard s-1000	V04CL
+Euthyrox	H03AA01
+Eviana	G03FA01
+Evicel	B02BC30
+Eviplera	J05AR08
+Evista	G03XC01
+Evoltra	L01BB06
+Evorel	G03CA03
+Evra	G03AA13
+Exelon	N06DA03
+Exforge	C09DB01
+Exforge HCT	C09DX01
+Exjade	V03AC03
+Exocin	S01AE01
+Extavia	L03AB08
+Extraneal	B05DA
+Eylea	S01LA05
+Ez-Cat Bariumsulfat	V08BA01
+Ezetrol	C10AX09
+Fabrazyme	A16AB04
+Famotidin	A02BA03
+Famotidin Hexal	A02BA03
+Fampyra	N07XX07
+Famvir	J05AB09
+Fanalgin	N02BB51
+Farmorubicin	L01DB03
+Fasigyn	P01AB02
+Faslodex	L02BA03
+Fasturtec	V03AF07
+Feiba	B02BD03
+Felden	M01AC01
+Felodipin Hexal	C08CA02
+Felodipin ratiopharm	C08CA02
+Femar	L02BG04
+Femara	L02BG04
+Feminil	G03HB01
+Fenazon-Koffein	N02BB51
+Fenazon-Koffein Sterke	N02BB51
+Fendrix	J07BC01
+Fenemal	N03AA02
+Fenemal NAF	N03AA02
+Fenemal Recip	N03AA02
+Fenistil	D04AA13
+Fenobarbital	N03AA02
+Fenobarbital SA	N03AA02
+Fenobarbital med lakris ullevål	N03AA02
+Fenobarbitalnatrium	N03AA02
+Fenobarbitalnatrium NAF	N03AA02
+Fenofibrat	C10AB05
+Fenofibrat Retard	C10AB05
+Fenol flytende SA	S02
+Fentanyl Actavis	N01AH01
+Fentanyl Sandoz	N02AB03
+Fentanyl ratiopharm	N02AB03
+Fentanyl-Hameln	N01AH01
+Fenylefrin Abcur	C01CA06
+Fenylefrin SA	S01FB01
+Fenylefrin rikshosp	C01CA06
+Fenylefrinhydroklorid	C01CA06
+Fenytoin	N03AB02
+Fenytoin NAF	N03AB02
+Ferinject	B03AC
+Ferriprox	V03AC02
+Ferrlecit	B03AC
+Ferrologic	B03AC
+Ferromax	B03AA07
+Fevarin	N06AB08
+Fibrogammin P	B02BD07
+Finacea	D10AX03
+Finasterid Actavis	G04CB01
+Finasterid Amneal	G04CB01
+Finasterid Pfizer	G04CB01
+Finminette	G03AA12
+Firazyr	B06AC02
+Firdapse	N07XX05
+Firmagon	L02BX02
+Fitoprost	G04CX02
+Flagyl	P01AB01
+Flamazine	D06BA01
+Flamazine Life	D06BA01
+Flamazine euromedica	D06BA01
+Flamazine specific	D06BA01
+Flecainid Sandoz	C01BC04
+Fleet Phospho-soda	A06AD17
+Flekainid SA	C01BC04
+Flekainid ullevål	C01BC04
+Flexbumin	B05AA01
+Flolan	B01AC09
+Florinef	H02AA02
+Fluanxol	N05AF01
+Fluanxol Depot	N05AF01
+Fluarix	J07BB02
+Fluconazol Actavis	J02AC01
+Fluconazol B. Braun	J02AC01
+Fluconazol Bluefish	J02AC01
+Fluconazol Claris	J02AC01
+Fluconazol Krka	J02AC01
+Fluconazol Villerton	J02AC01
+Fluconazole Teva	J02AC01
+Fludara	L01BB05
+Fludarabin Actavis	L01BB05
+Fludarabine Pharmachemie	L01BB05
+Fludrokortisonacetat SA	H02AA02
+Fluenz	J07BB03
+Fluenz Tetra	J07BB03
+Flumazenil Actavis	V03AB25
+Flumazenil Fresenius Kabi	V03AB25
+Flumazenil Hameln	V03AB25
+Flunipam	N05CD03
+Flunitrazepam	N05CD03
+Fluocinonid SA	D07AC08
+Fluor Protector	A01AA
+Fluoresceinnatrium Minims	S01JA01
+Fluorette	A01AA01
+Fluorid	A01AA01
+Fluorouracil Accord	L01BC02
+Fluorouracil Hospira	L01BC02
+Fluoxetin Mylan	N06AB03
+Fluoxetin Sandoz	N06AB03
+Fluoxetin ratiopharm	N06AB03
+Fluoxetine Vitabalans	N06AB03
+Flurablastin	L01BC02
+Fluress	S01JA51
+Flurolon	S01BA07
+Flutamid Orion	L02BB01
+Flutide	R03BA05
+Flutide Nasal	R01AD08
+Flutiform	R03AK11
+Flutivate	D07AC17
+Flux	A01AA01
+Folinic-folic acid	V03AF
+Folsan	B03BB01
+Folsyre NAF	B03BB01
+Fomepizole	V03AB34
+Fomepizole Eusa Pharma	V03AB34
+Fontex	N06AB03
+Forene	N01AB06
+Forkjølelsesmikstur NAF	R05CA10
+Formaldehyd SA	V07A
+Forsteo	H05AA02
+Fortecortin	H02AB02
+Fortecortin Gevita	H02AB02
+Fortecortin life medical	H02AB02
+Fortum	J01DD02
+Fortynnet Saltsyre NAF	A09AB03
+Forxiga	A10BX09
+Fosamax	M05BA04
+Fosavance	M05BB03
+Foscan	L01XD05
+Foscavir	J05AD01
+Foscavir campus	J05AD01
+Foscavir orifarm	J05AD01
+Foscavir specific	J05AD01
+Fosfat SA	A12CX
+Fosfatbuffer pH 7,4 SA	V07A
+Fosfatbuffer reagens IGRI SA	V07A
+Fosrenol	V03AE03
+Fostimon	G03GA04
+Fotil	S01ED51
+Fotil Forte	S01ED51
+Fragmin	B01AB04
+Frisium	N05BA09
+Fruktose SA	V07A
+Frølichs Hostemikstur NAF	R05CA10
+Fucibet	D07CC01
+Fucidin	D06AX01
+Fucidin-Hydrocortison	D07CA01
+Fucithalmic	S01AA13
+Ful-Glo	S01JA01
+Fulcin	D01BA01
+Fumaderm	D05BX51
+Fumaderm Initial	D05BX51
+Fungizone	J02AA01
+Fungoral	D01AC08
+Furadantin	J01XE01
+Furantoina	J01XE01
+Furix	C03CA01
+Furix Retard	C03CA01
+Furosemid	C03CA01
+Furosemide Claris	C03CA01
+Fycompa	N03AX22
+GI Sustain	V06DB
+Gaba 2	N03AG03
+Gaba2	N03AG03
+Gabapentin	N03AX12
+Gabapentin SA	N03AX12
+Gabbroral	A07AA06
+Gabitril	N03AG06
+Gadovist	V08CA09
+Galantamin Krka	N06DA04
+Galieve	A02BX13
+Galvus	A10BH02
+Gambrosol Trio 40	B05D
+Gammanorm	J06BA01
+Ganfort	S01ED51
+Gardasil	J07BM01
+Gastrografin	V08AA01
+Gaviscon	A02BX13
+Gelaspan	B05AA06
+Gelfoam dent tamponger	A01AD11
+Gelfoam dent tamponger size 12	A01AD11
+Gelofusine	B05AA06
+Gem	A07CA
+Gemcitabin Actavis	L01BC05
+Gemcitabin Fresenius Kabi	L01BC05
+Gemcitabin Hospira	L01BC05
+Gemcitabine Accord	L01BC05
+Gemzar	L01BC05
+Genotropin	H01AC01
+Gensumycin	J01GB03
+Gentamicin B. Braun	J01GB03
+Gentamicin Paediatric	J01GB03
+Gentamicin Paediatric campus	J01GB03
+Gentamicin Paediatric life	J01GB03
+Gentamicin SA	J01GB03
+Gentamicin paediatric	J01GB03
+Gentamicin paediatric life	J01GB03
+Gentamicin-POS	S01AA11
+Gestone	G03DA04
+Ghrh-ferring	V04CD05
+Gilenya	L04AA27
+Gingi-Aid Z-Twist 12171 #1 Thin	D08AB
+Gingi-Aid Z-Twist 12172 #2 Medium	D08AB
+Gingi-Aid Z-Twist 12173 #3 Thick	A01A
+Gingi-Pak Cord 2-ply 10120	A01AD01
+Gingi-Pak Soft-Twist 10105 Cord #1 Thin	A01AD01
+Gingi-Pak Soft-Twist 10110 Cord #2 Medium	A01AD01
+Gingi-Pak Soft-Twist 10115 Cord #3 Thick	A01AD01
+Gingi-Pak Z-Twist 10171 #1 Thin	A01AD01
+Gingi-Pak Z-Twist 10172 #2 Medium	A01AD01
+Gingi-Pak Z-Twist 10173 #3 Thick	A01AD01
+Ginkgo	N06DX02
+Giona Easyhaler	R03BA02
+Giotrif	L01XE13
+Glauprost	S01EE01
+Glavamin	B05BA01
+Glibenclamid ratiopharm	A10BB01
+Glimepirid Hexal	A10BB12
+Glimepirid Mylan	A10BB12
+Glimepirid Teva	A10BB12
+Gliolan	L01XD04
+Glivec	L01XE01
+Globoid	N02BA01
+Glucagon Novo Nordisk	H04AA01
+Gluco +	A11
+Gluco+	A11
+Glucobay	A10BF01
+Glucophage	A10BA02
+Glucos	B05BA03
+Glucos B. Braun	B05BA03
+Glucos Baxter Viaflo	B05BA03
+Glucos Braun	B05BA03
+Glucos Fresenius Kabi	B05BA03
+Glucosamin Orifarm	M01AX05
+Glucosamin Pharma Nord	M01AX05
+Glucosamine Plus	M01AX
+Glucosamine Plus Extra Strength	M01AX
+Glucose	B05BA03
+Glucose-Na-K	B05BB02
+Glucose-Na-K baxter	B05BB02
+Glukos fresenius kabi	B05BA03
+Glukose B. Braun	B05BA03
+Glukose NAF	V04CA02
+Glukose SA	B05BA03
+Glukose m/saltsyre SA	V07A
+Glukosel	B05BB02
+Glycerol glidemiddel	D02A
+Glycerol steril	D02A
+Glyceryl trinitrat	C01DA02
+Glyceryl trinitrate	C01DA02
+Glycerylnitrat	C01DA02
+Glycerylnitrat i Essex	C05AE01
+Glycerylnitrat i Essex krem	C05AE01
+Glycine	A16AA
+Glycophos	B05XA14
+Glycopyrrolate	A03AB02
+Glypressin	H01BA04
+Glyserol SA	S01X
+Glyserol i Na kl SA	V03A
+Glyseroltrinitrat SA	C01DA02
+Gonal-F	G03GA05
+Gopten	C09AA10
+Granisetron	A04AA02
+Granupas	J04AA01
+Grazax	V01AA02
+Guanethidine	C02CC02
+Gutron	C01CA17
+H-F Antidote	V03AB
+H-f antidote	V03AB
+HCL-Zyme	A09AC02
+Haemaccel	B05AA06
+Haemate	B02BD06
+Halaven	L01XX41
+Halcion	N05CD05
+Haldol	N05AD01
+Haldol Depot	N05AD01
+Halothane	N01AB01
+Hamburgerte NAF	A06AB56
+Havrix	J07BC02
+Helixate NexGen	B02BD02
+Heminevrin	N05CM02
+Hemorroidesalve NAF	C05AX03
+Hemosol B0	B05ZB
+Hepaflex	B01AB01
+Heparin LEO	B01AB01
+Heparin Leo	B01AB01
+Heparin SA	B01AB01
+Heparin Sodium	B01AB01
+Heparin Sodium SA	B01AB01
+Heparinnatrium	B01AB01
+Heparinnatrium u/kons	B01AB01
+Hepasunate	P01BE03
+Hepatect	J06BB04
+Hepatect CP	J06BB04
+Hepatitis B Immunglobuline	J06BB04
+Hepsera	J05AF08
+Heracillin	J01CF05
+Herceptin	L01XC03
+Hesra	B05AA07
+Hexabrix	V08AB03
+Hexvix	V04CX
+HiBi	D08AC02
+Hibiscrub	D08AC02
+Hibitane	D08AC02
+Hidrasec	A07XA04
+Hiprex	J01XX05
+Hirudo medicinalis blodigler	C05
+Hirudoid	C05BA01
+Hizentra	J06BA01
+Hjertemagnyl	B01AC06
+Hoffmannsdråper NAF	V03AX
+Holoxan	L01AA06
+Hostesaft for barn NAF	R05CA10
+Humalog	A10AB04
+Humalog KwikPen	A10AB04
+Humalog Mix25	A10AD04
+Humalog Mix25 KwikPen	A10AD04
+Humatin	A07AA06
+Humatrope	H01AC01
+Humira	L04AB04
+Humulin NPH	A10AC01
+Humulin NPH Kwikpen	A10AC01
+Humulin R	A10AB01
+Hvit kamferolje NAF	M02AX10
+Hvit vask - Sinkliniment NAF	D04AX
+HyQvia	J06BA01
+Hycamtin	L01XX17
+Hydralazine	C02DB02
+Hydrea	L01XX05
+Hydrochlorothiazide Orifarm	C03AA03
+Hydrocortisone	H02AB09
+Hydrogenperoksyd SA	D08AX01
+Hydrokinon SA	D10AD51
+Hydrokinon/Tretionin SA	D02A
+Hydroklortiazid SA	C03AA03
+Hydrokon NAF	R05DA03
+Hydrokortison	H02AB09
+Hydrokortison CCS	D07AA02
+Hydrokortison Clean Chemical Sweden	D07AA02
+Hydrokortison SA	A01AC03
+Hydrokortison i karbamidkrem SA	D07AA
+Hydrokortison-Sitronsyre SA	D07AA
+Hydrokortison/Svovel i cetylan SA	D07AA
+Hydroxocobalamine	B03BA03
+Hydroxyurea Medac	L01XX05
+Hygroton	C03BA04
+Hylase	B06AA03
+HyperHAES	B05AA07
+Hypericum STADA	N06AX25
+Hypnomidate	N01AX07
+HypoCol	C10
+Hypochylin	A09AB01
+Hypoloc	C07AB12
+Hypoloc Comp	C07BB12
+Hyprosan	S01XA20
+Hypurin Bovine	A10AB02
+Hypurin Bovine Protamine Zinc	A10AE02
+ICG-Pulsion	V04CX
+ICG-Pulsion life	V04CX
+ICG-Pulsion orifarm	V04CX
+INOmax	R07AX
+INexium	A02BC05
+Ibaril	D07AC03
+Ibumax	M01AE01
+Ibumetin	M02AA13
+Ibuprofen ratiopharm	M01AE01
+Ibuprox	M01AE01
+Ibux	M02AA13
+Iclusig	L01XE24
+Idebenone	N06BX13
+Iducher	S01AD01
+Ilaris	L04AC08
+Ilomedin	B01AC11
+Imacillin	J01CA04
+Imdur	C01DA14
+Imigran	N02CC01
+Imigran Juvenil	N02CC01
+Imigran Radis	N02CC01
+Imipenem/Cilastatin Actavis	J01DH51
+Imipenem/Cilastatin Hospira	J01DH51
+Immunine	B02BD04
+Immunothione	A11EX
+Imnovid	L04AX06
+Imodium	A07DA03
+Imodium Comp	A07DA53
+Imogas	A03AX13
+Imovane	N05CF01
+Imovax Polio	J07BF03
+Importal	A06AD12
+Imukin	L03AB03
+Imunovir	J05AX05
+Imurel	L04AX01
+Incivo	J05AE11
+Increlex	H01AC03
+Inderal	C07AA05
+Inderal Retard	C07AA05
+Indigo Carmine campus	V04CH02
+Indigo Carmine life medical	V04CH02
+Indigocarmin	V04CH02
+Indivina	G03FA12
+Indo-CT	M01AB01
+Indo-paed	M01AB01
+Indocid pda	C01EB03
+Indomet	M01AB01
+InductOs	M05BC01
+Inegy	C10BA02
+Infanrix-Polio + Hib	J07CA06
+Inflectra	L04AB02
+Infloran	A07FA
+Influvac	J07BB02
+Inlyta	L01XE17
+Innohep	B01AB10
+Inotyol	D05AA
+Inovelon	N03AF03
+Insidon	N06AA05
+Inspra	C03DA04
+Instanyl	N02AB03
+Insulatard FlexPen	A10AC01
+Insulatard InnoLet	A10AC01
+Insulatard Penfill	A10AC01
+Insulin Actrapid SA	A10AB05
+Insulin Mixtard 30/70	A10AD03
+Insulin aspart SA	A10AB05
+Insulin glulisin SA	A10AB06
+Insulin lispro SA	A10AB04
+Insuman Basal	A10AC01
+Insuman Rapid	A10AB01
+Inte-Zyme	A09AA02
+Integrilin	B01AC16
+Intelence	J05AG04
+InterFase Plus	A09AC02
+Intralipid	B05BA02
+Intrinsa	G03BA03
+IntronA	L03AB05
+Inuxair	R03AK08
+Invanz	J01DH03
+Invirase	J05AE01
+Iodosorb	D08AG03
+Iomeron	V08AB10
+Iopidine	S01EA03
+Ipratropiumbromid Arrow	R03BB01
+Ipraxa	R03BB01
+Ipren	M01AE01
+Ipstyl	H01CB03
+Ipstyl Autogel	H01CB03
+Irbesartan Actavis	C09CA04
+Irbesartan Sandoz	C09CA04
+Irbesartan/Hydrochlorothiazide Sandoz	C09DA04
+Irbesartan/Hydroklortiazid Actavis	C09DA04
+Iressa	L01XE02
+Irinokabi	L01XX19
+Irinotecan Accord	L01XX19
+Irinotecan Actavis	L01XX19
+Irinotecan Fresenius Kabi	L01XX19
+Irinotecan Hospira	L01XX19
+Isentress	J05AX08
+Ismelin	C02CC02
+Ismelin life	C02CC02
+Ismo	C01DA14
+Ismo Retard	C01DA14
+Isofluran	N01AB06
+Isoniazid NAF	J04AC01
+Isoniazid SA	J04AC01
+Isoprenalin NAF	C01CA02
+Isoprenalina life	C01CA02
+Isoprinosine	J05AX05
+Isoptin	C08DA01
+Isoptin KHK retard	C08DA01
+Isoptin RR	C08DA01
+Isoptin Retard	C08DA01
+Isoptin life	C08DA01
+Isopto-Carbachol	S01EB02
+Isopto-Maxidex	S01BA01
+Isosorbidmononitrat Mylan	C01DA14
+Isotretinoin Orifarm	D10BA01
+Ivemend	A04AD12
+Ixiaro	J07BA02
+Ixoten	L01AA07
+Jakavi	L01XE18
+Janumet	A10BD07
+Januvia	A10BH01
+Javlor	L01CA05
+Jaydess	G02BA03
+Jentadueto	A10BD11
+Jetrea	S01XA22
+Jevtana	L01CD04
+Jext	C01CA24
+Jod NAF	D08AG03
+Johimbin NAF	G04BE04
+K-Phos Neutral	G04BA
+KA-Vit euromedica	B02BA01
+KA-Vit life	B02BA01
+Ka-vit	B02BA01
+Kabiven	B05BA10
+Kabiven Perifer	B05BA10
+Kadcyla	L01XC14
+Kajos	A12BA02
+Kalcipos-Vitamin D	A12AX
+Kaleorid	A12BA01
+Kaletra	J05AR10
+Kalii Phosphas	B05XA06
+Kalium hausmann	A12BA30
+Kalium-Natrium-Glucose Braun	B05BB02
+Kaliumjodid Recip	V03AB21
+Kaliumklorid B. Braun	B05XA01
+Kaliumklorid SA	A12BA01
+Kaliumpermanganat NAF	D08AX06
+Kalsium med Vitamin D3 Farmagon	A12AX
+Kalsiumfolinat Pfizer	V03AF03
+Kalsiumfolinat SA	V03AF03
+Kalsiumlaktat SA	A12AX
+Kalydeco	R07AX02
+Kamfer- og lakrismikstur NAF	R05CA10
+Kamferdråper NAF	V03AX
+Kamfermikstur NAF	R05CA10
+Kamferspiritus NAF	D10A
+Kandesartan Farmagon	C09CA06
+Kandesartan-Hydroklortiazid Farmagon	C09DA06
+Kaptopril SA	C09AA01
+Kaptopril ullevål	C09AA01
+Kapvay	N02CX02
+Karbakolin NAF	N07AB01
+Karbakolinklorid	N07AB01
+Karbamid NAF	D02AE01
+Karbamid SA	V04C
+Karbamid til oppløsning SA	V04C
+Karbolytt	B05BB02
+Katadolon	N02BG07
+Keflex	J01DB01
+Keflin	J01DB03
+Kelocyanor	V03AB03
+Kemadrin	N04AA04
+Kemicetine Succinate	J01BA01
+Kenacort A 10	H02AB08
+Kenacort A Orabase	A01AC01
+Kenacort-T	H02AB08
+Kentera	G04BD04
+Kepivance	V03AF08
+Keppra	N03AX14
+Kestine	R06AX22
+Ketalar	N01AX03
+Ketanest	N01AX14
+Ketanest S	N01AX14
+Ketek	J01FA15
+Ketensin	C02KD01
+Ketesse	M01AE17
+Ketobemidon	N02AB01
+Ketobemidon rikshosp	N02AB01
+Ketobemidonhydroklorid	N02AB01
+Ketogan	N02AG02
+Ketokonazol Teva	D01AC08
+Ketokonazol ratiopharm	D01AC08
+Ketorax	N02AB01
+Ketovite	A11EX
+Ketovite Liquid	A11JA
+Ketovite euromedica	A11EX
+Kidrolase	L01XX02
+Kineret	L04AC03
+Kinin	P01BC01
+Kinin NAF	P01BC01
+Kiovig	J06BA02
+Kivexa	J05AR02
+Klacid	J01FA09
+Klacid OD	J01FA09
+Klar kamferolje NAF	M02AX10
+Klean-Prep	A06AD65
+Klexane	B01AB05
+Kliogest N	G03FA01
+Klobasam SA	N05BA09
+Klobazam SA	N05BA09
+Klobetasol	A01AC
+Klomipramin Mylan	N06AA04
+Klonidin SA	N02CX02
+Klonidinhydroklorid	N02CX02
+Klopidogrel	B01AC04
+Klopidogrel SA	B01AC04
+Kloralhydrat SA	N05CC01
+Kloramfenikol	S01AA01
+Kloramfenikol Minims	S01AA01
+Kloramfenikol NAF	S02AA01
+Klorheksidin Baggerman	D08AC02
+Klorheksidin Sage	D08AC02
+Klorheksidindiglukonat SA	A01AB03
+Klorhexidin Fresenius Kabi	D08AC02
+Klorhexidin SA	S01AX09
+Klorhexidinsprit Fresenius Kabi	D08AC02
+Klorhexidinsprit farget Fresenius Kabi	D08AC02
+Klorokinfosfat SA	P01BA
+Klorpromazin SA	N05AA01
+Klotrimazol Mylan	D01AC01
+Klyx	A06AG10
+Kodein	R05DA04
+Kodein/paracetamol ullevål	N02AA59
+Kodimagnyl Ikke-Stoppende	N02BA51
+Koffein NAF	N06BC01
+Koffein SA	N06BC01
+Koffein/difenhydramin SA	R06AA52
+Kogenate Bayer	B02BD02
+Kohle-Compretten	A07BA01
+Kokain SA	S01HA01
+Kolkisin NAF	M04AC01
+Komboglyze	A10BD10
+Konakion Novum	B02BA01
+Kortison SA	H02AB10
+Kredex	C07AG02
+Kreon	A09AA02
+Kreon 25000	A09AA02
+Kreon fur kinder	A09AA02
+Krystallfiolett NAF	D01AE02
+Kull Abigo	A07BA01
+Kuvan	A16AX07
+Kytril	A04AA02
+L-Arginine	B05XB01
+L-Carn	A16AA01
+L-Glutamine	A16AA03
+L-Phenylalanine	A16AA
+L-Thyrox	H03AA01
+L-Thyroxin	H03AA01
+L-Thyroxine	H03AA01
+L-Tryptophan	N06AX02
+L-Tyrosine	A16AA
+L-Valine SA	A16AA
+L-glutamin	A16AA03
+L-isoleucine SA	A16AA
+Lacril	S01XA20
+Lacrisert	S01XA20
+Lacrisert euromedica	S01XA20
+Lacteol	A07FA01
+Lakrismikstur NAF	R05CA10
+Laktulose MIP Pharma	A06AD11
+Lamictal	N03AX09
+Lamisil	D01BA02
+Lamisil DermGel	D01AE15
+Lamotrigin Actavis	N03AX09
+Lanoxin	C01AA05
+Lansoprazol Krka	A02BC03
+Lansoprazol Pensa	A02BC03
+Lansoprazol ratiopharm	A02BC03
+Lantus	A10AE04
+Lanvis	L01BB03
+Lanvis Euromedica	L01BB03
+Lanvis life	L01BB03
+Lanzo Melt	A02BC03
+Largactil	N05AA01
+Largactil life	N05AA01
+Largactil specific	N05AA01
+Lariam	P01BC02
+Lasix Retard	C03CA01
+Lassars pasta NAF	D02AB
+Lastin	R01AC03
+Latanoprost Sandoz	S01EE01
+Latanoprost/Timolol Pfizer	S01ED51
+Latiotim	S01ED51
+Latuda	N05AE05
+Laxabon	A06AD65
+Laxoberal	A06AB08
+Lecrolyn	S01GX01
+Ledermix	A01AC01
+Ledermix komb pakn	A01AC01
+Ledermix kombinasjonspakning	A01AC01
+Lederspan	H02AB08
+Leflunomide medac	L04AA13
+Legalon sil	A05BA03
+Lemtrada	L01XC04
+Leponex	N05AH02
+Leppesalve med gul vaselin SA	V07A
+Leptanal	N01AH01
+Lerkanidipin Actavis	C08CA13
+Lescol	C10AA04
+Lescol Depot	C10AA04
+Lestid	C10AC02
+Letrozol Accord	L02BG04
+Letrozol Mylan	L02BG04
+Letrozol Orifarm	L02BG04
+Letrozol Teva	L02BG04
+Leukeran	L01AA02
+Leuprorelin Sandoz	L02AE02
+Leustatin	L01BB04
+Levact	L01AA09
+Levaxin	H03AA01
+Levaxin u/laktose	H03AA01
+Levemir	A10AE05
+Levemir InnoLet	A10AE05
+Levetiracetam Accord	N03AX14
+Levetiracetam Aspen	N03AX14
+Levetiracetam Desitin	N03AX14
+Levetiracetam Teva	N03AX14
+Levitra	G04BE09
+Levofloxacin	J01MA12
+Levofloxacin B.Braun	J01MA12
+Levofloxacin life	J01MA12
+Levofolinsyre medac	V03AF10
+Levokarnitin SA	A16AA01
+Levolac	A06AD11
+Levomepromazin	N05AA02
+Levomepromazine Orion	N05AA02
+Levometadon DnE	N07BC05
+Levothroid	H03AA01
+Levothyroxinnatrium	H03AA01
+Lexotanil	N05BA08
+Li-liquid	N05AN01
+Librax	A03CA02
+Librium	N05BA02
+Lidocaine	C01BB01
+Lidocaine & Fluorescein Minims specific	S01JA51
+Lidocaine Hydrochloride	C01BB01
+Lidocaine Hydrochloride viskøs	N01BB02
+Lidocaine Minijet	C01BB01
+Lidocaine and Fluorescein Minims	S01JA51
+Lidocaine hydrochloride	C01BB01
+Lidocaine life	N01BB02
+Lidoderm	N01BB02
+Lidokain	C01BB01
+Lidokain FarmaPlus	N01BB02
+Lidokain SA	N01BB02
+Lidokain-Adrenalin NAF	N01BB52
+Linatil	C09AA02
+Link	A02AD01
+Liometacen	M01AB01
+Lioresal	M03BX01
+Liothyronin	H03AA02
+Lipanthyl	C10AB05
+Lipidem	B05BA02
+Lipiodol Ultra Fluid	V08AD01
+Lipitor	C10AA05
+Lipoic Plus	A11
+Liposomal  vitamin C	A11
+Liposomal B12/Methylfolate	B03BA
+Liposomal Glutathione	V03AB32
+Liposomal Hormone	G03BA03
+Lipostabil N	V03AX
+Lisinopril ratiopharm	C09AA03
+Lisinopril/Hydrochlorthiazid Sandoz	C09BA03
+Lisinopril/Hydroklortiazid Actavis	C09BA03
+Liskantin	N03AA03
+Litak	L01BB04
+Litarex	N05AN01
+Lithionit	N05AN01
+Litican	A03FA05
+Litiumkarbonat	N05AN01
+Livalo	C10AA08
+Livertone	V06DX
+Livial	G03CX01
+Livopan	N01AX63
+Livostin	S01GX02
+Locacorten-Vioform	S02CA02
+Loceryl	D01AE16
+Locoid	D07AB02
+Locoid Crelo	D07AB02
+Locoid Lipid	D07AB02
+Locorten Vioform	S02CA02
+Lodotra	H02AB07
+Lodoz	C07BB07
+Loette 28	G03AA07
+Lofepramine	N06AA07
+Lomir	C08CA03
+Lomir SRO	C08CA03
+Lomotil	A07DA01
+Lomudal	S01GX01
+Lomudal Nasal	R01AC01
+Lomustine	L01AD02
+Loniten	C02DC01
+Lonquex	L03AA14
+Lopacut	A07DA03
+Loperamid Mylan	A07DA03
+Lopid	C10AB04
+Loratadin Hexal	R06AX13
+Loratadin Orifarm	R06AX13
+Loratadin ratiopharm	R06AX13
+Lorazepam	N05BA06
+Losartan Krka	C09CA01
+Losartan Orifarm	C09CA01
+Losartan Teva	C09CA01
+Losartan/Hydrochlorothiazide Bluefish	C09DA01
+Losartan/Hydrochlorothiazide Krka	C09DA01
+Losartan/Hydrochlorothiazide Sandoz	C09DA01
+Losartan/Hydrochlorothiazide Teva	C09DA01
+Losartan/hydroklortiazid Orifarm	C09DA01
+Losec	A02BC01
+Losec MUPS	A02BC01
+Lovastatin ratiopharm	C10AA02
+Lucentis	S01LA04
+Ludiomil	N06AA21
+Lugols væske SA	H03CA
+Lumigan	S01EE03
+Lunelax	A06AC01
+Lutinus	G03DA04
+Lutrate Depot	L02AE02
+Luveris	G03GA07
+Lymecyclin Actavis	J01AA04
+Lyogen	N05AB02
+Lyovac Cosmegen	L01DA01
+Lyrica	N03AX16
+Lyrinel XL	G04BD04
+Lysantin	N04AB02
+Lysodren	L01XX23
+Lyxumia	A10BX10
+Lyxumia Oppstartspakning	A10BX10
+M-M-Rvaxpro	J07BD52
+Maalox	A02AD01
+MabThera	L01XC02
+Macrodex 60 mg/ml med Natriumklorid	B05AA05
+Macrodex med natriumklorid	B05AA05
+Madopar 12,5/50	N04BA02
+Madopar 25/100	N04BA02
+Madopar Depot 25/100	N04BA02
+Madopar Solubile 12,5/50	N04BA02
+Maglyphos	A12CC
+Magnesia	A02AA04
+Magnesium Chloride	A12CC01
+Magnesium-Diasporal	A12CC10
+Magnesiumoksid SA	A12CC10
+Magnesiumsitrat SA	A12CC04
+Magnesiumsulfat B. Braun	B05XA05
+Magnesiumsulfat SA	B05XA05
+Magnevist	V08CA01
+Magnyl-E	B01AC06
+Malarone	P01BB51
+Malarone Junior	P01BB51
+Malation	P03AX03
+Malfin	N02AA01
+Mannitol	B05BC01
+Mannitol B. Braun	B05BC01
+Mannitol Baxter Viaflo	B05BC01
+Marcain	N01BB01
+Marcain Spinal	N01BB01
+Marcain Spinal Tung	N01BB01
+Marcain-Adrenalin	N01BB51
+Marcaine	N01BB01
+Marevan	B01AA03
+Marevan uten farve	B01AA03
+Marinol	A04AD10
+Marplan	N06AF01
+Martapan	H02AB02
+Marvelon	G03AA09
+Marvelon 28	G03AA09
+Marzine	R06AE03
+Max-Carnitine	A16AA01
+Maxalt	N02CC04
+Maxalt Rapitab	N02CC04
+Maxitrol	S01CA01
+Medikinet	N06BA04
+Medisinsk Luft Air Liquide	V03AN
+Medisinsk Oksygen Air Liquide	V03AN01
+Medisinsk lystgass Air Liquide	N01AX13
+Medrol	H02AB04
+Medrol specific	H02AB04
+Megace	L02AB01
+Mekobalamin	B03BA05
+Meladinin SA	D05AD02
+Melatonin	N05CH01
+Melatonin CR	N05CH01
+Melatonin Euromedica	N05CH01
+Melatonin PR	N05CH01
+Melatonin Sublingual Douglas	N05CH01
+Melatonin douglas	N05CH01
+Melatonin euromedica	N05CH01
+Melatonin karuna	N05CH01
+Melleril	N05AC02
+Meloxicam Actavis	M01AC06
+Meloxicam BMM Pharma	M01AC06
+Meloxicam Bluefish	M01AC06
+Meloxicam Mylan	M01AC06
+Memantine ratiopharm	N06DX01
+Menadion	B02BA01
+Menadion specific	B02BA01
+Menopur	G03GA02
+Menveo	J07AH08
+Mepact	L03AX15
+Mepakrinhydroklorid	P01AX05
+Meprodil	N05BC01
+Mercilon 28	G03AA09
+Meronem	J01DH02
+Meropenem Hospira	J01DH02
+Meropenem Sandoz	J01DH02
+Meropenem VM hospira SA	J01DH02
+Meropur	G03GA02
+Mesasal	A07EC02
+Mestinon	N07AA02
+Metadon	N07BC02
+Metadon Abcur	N07BC02
+Metadon Apotektilvirket	N07BC02
+Metadon DnE	N07BC02
+Metadon NAF	N07BC02
+Metadon NYP	N07BC02
+Metadon Pharmadone	N07BC02
+Metadon SA	N07BC02
+Metadon abcur	N07BC02
+Metadon ullevål	N07BC02
+Metakolin SA	V04CX
+Metal Clean	A11
+Metalyse	B01AD11
+Metamina	N06BA02
+Metaoxedrin Minims	S01FB01
+Metex	L01BA01
+Metformin Actavis	A10BA02
+Metformin Amneal	A10BA02
+Metformin Mylan	A10BA02
+Metformin Orifarm	A10BA02
+Metformin Pfizer	A10BA02
+Metformin Weifa	A10BA02
+Methadon Alternova	N07BC02
+Methadon Martindale Pharma	N07BC02
+Methazolamide	S01EC05
+Methergin	G02AB01
+Methocel	S01XA20
+Methotrexat	L01BA01
+Methotrexat Accord	L01BA01
+Methotrexate	L04AX03
+Methotrexate Pfizer	L04AX03
+Methotrexate Teva	L01BA01
+Methyl B12	B03BA05
+Methyldopa	C02AB01
+Methylene Blue	V03AB17
+Methylphenidate Sandoz	N06BA04
+Methylprednisolone Orion	H02AB04
+Methylthioninium chloride Proveblue	V03AB17
+Metionin SA	V06D
+Metoclopramide	A03FA01
+Metoklopramid SA	A03FA01
+Metoksalen SA	D05AD02
+Metolazon	C03BA08
+Metopirone	V04CD01
+Metoprolol Mylan	C07AB02
+Metoprolol SA	C07AB02
+Metoprolol Sandoz	C07AB02
+Metosyn	D07AC08
+Metronidazol Actavis	P01AB01
+Metronidazol Baxter Viaflo	J01XD01
+Metronidazole Braun	J01XD01
+Metvix	L01XD03
+Metylcellulose SA	S01
+Metylfenidat SA	N06BA04
+Metylskopolamin NAF	A03BB03
+Metylskopolamin SA	A04AD01
+Metyltionin	V03AB17
+Mexiletine	C01BB02
+Mexitil	C01BB02
+Mezavant	A07EC02
+Miacalcic	H05BA01
+Miacalcic Mite	H05BA01
+Miacalcic mite	H05BA01
+Mianserin Mylan	N06AX03
+Micardis	C09CA07
+MicardisPlus	C09DA07
+Microcid	D08AX01
+Microgynon	G03AA07
+Microlax	A06AG11
+Micronefrin	R03AA01
+Midazolam	N05CD08
+Midazolam Actavis	N05CD08
+Midazolam B.Braun	N05CD08
+Midazolam Panpharma	N05CD08
+Midazolam SA	N05CD08
+Midazolam ullevål	N05CD08
+Mifegyne	G03XB01
+Mifepristone Linepharma	G03XB01
+Migard	N02CC07
+Migea	M01AG02
+Miglustat SA	A16AX06
+Mildison Lipid	D07AA02
+Milrinone	C01CE02
+Mimpara	H05BX01
+Mindiab	A10BB07
+Miniderm	D02AX
+Minifom	A03AX13
+Minipres	C02CA01
+Minipress	C02CA01
+Minirin	H01BA02
+Minitran	C01DA02
+Minocin	J01AA08
+Minocyclin	J01AA08
+Minoxidil	C02DC01
+Minprostin	G02AD02
+Miochol-E	S01EB09
+Miochol-E campus	S01EB09
+Mircera	B03XA03
+Mirena	G02BA03
+Mirtazapin Arrow	N06AX11
+Mirtazapin Bluefish	N06AX11
+Mirtazapin Hexal	N06AX11
+Mirvaso	D11AX21
+Misodel	G02AD06
+Misoprostol SA	G02AD06
+Mitomycin	L01DC03
+Mitomycin C campus	L01DC03
+Mitomycin SA	L01DC03
+Mitomycin-C	L01DC03
+Mitoxantron Ebewe	L01DB07
+Mivacron	M03AC10
+Mixobar Colon	V08BA01
+Mobic	M01AC06
+Moclobemid ratiopharm	N06AG02
+Modecate	N05AB02
+Modifenac	M01AB05
+Modigraf	L04AD02
+Modiodal	N06BA07
+Moduretic Mite	C03EA01
+Mogadon	N05CD02
+Molipaxin	N06AX05
+Molsidomin	C01DX12
+Mometasone Sandoz	R01AD09
+Mometasonfuroate SA	R01AD09
+Monofer	B03AC
+Monokaliumfosfat Braun	B05XA06
+Monoket OD	C01DA14
+Mononatriumfosfat SA	A12CX
+Monopex	S01BA01
+Monoprost	S01EE01
+Monosol	B05ZB
+Montelukast Aspen	R03DC03
+Montelukast Navamedic	R03DC03
+Montelukast Teva	R03DC03
+Monuril	J01XX01
+Morfin	N02AA01
+Morfin Abcur	N02AA01
+Morfin Epidural	N02AA01
+Morfin NAF	N02AA01
+Morfin Nycomed	N02AA01
+Morfin SA	N02AA01
+Morfin abcur	N02AA01
+Morfin ullevål	N02AA01
+Morfin-Skopolamin	N02AG01
+Morfinhydroklorid SA	N02AA01
+Morphin	N02AA01
+Morphine	N02AA01
+Motilium	A03FA03
+Movicol	A06AD65
+Movicol Junior	A06AD65
+Movicol Junior Neutral	A06AD65
+Moviprep	A06AD65
+Moxalole	A06AD65
+Moxonidin Actavis	C02AC05
+Mozobil	L03AX16
+Mucomyst	R05CB01
+Multaq	C01BD07
+MultiHance	V08CA08
+Multibic 2 mmol/l Kalium	B05ZB
+Multibic 4 mmol/l Kalium	B05ZB
+Multibic Kaliumfri	B05ZB
+Multibionta Nutrition	A11BA
+Multiferon	L03AB01
+Multivit-B	A11EA
+Multivit-B forte	A11EA
+Mutaflor	A07
+Mutaflor Mite	A07
+Myambutol	J04AK02
+Mycamine	J02AX05
+Mycobutin	J04AB04
+Mycolog	D07CB01
+Mycolog N	D07CC05
+Mycophenolatemofetil Accord	L04AA06
+Mycophenolatemofetil Sandoz	L04AA06
+Mycopryl	A07XA
+Mycopryl 680	A07XA
+Mycostatin	A07AA02
+Mydriacyl	S01FA06
+Mydrilate	S01FA04
+Mydrum	S01FA06
+Myfenax	L04AA06
+Myfortic	L04AA06
+Mykofenolat Accord	L04AA06
+Mykofenolatmofetil Actavis	L04AA06
+Myleran	L01AB01
+Myleran campus	L01AB01
+Myocet	L01DB01
+Myocrisin	M01CB01
+Myozyme	A16AB07
+Myrratinktur NAF	A01AB11
+Mysoline	N03AA03
+Mytelase	N07AA30
+N-acetyl-L-cysteine	R05CB01
+NT Factor	V06DX
+Na hypokloritt ullevål	A01AB11
+Nadolol	C07AA12
+Naglazyme	A16AB08
+Naglazyme campus	A16AB08
+Nalokson SA	V03AB15
+Naloksonhydroklorid SA	V03AB15
+Naloxon B. Braun	V03AB15
+Naloxon Hameln	V03AB15
+Naltrekson kragerø	N07BB04
+Naltrexone POA Pharma	N07BB04
+Napren-E	M01AE02
+Naproxen Actavis	M01AE02
+Naproxen Mylan	M01AE02
+Naproxen-E Mylan	M01AE02
+Naramig	N02CC02
+Nardil	N06AF03
+Naropin	N01BB09
+Nasacort	R01AD11
+Naso	R01AA07
+Nasonex	R01AD09
+Natacyn	S01AA10
+Natriumbikarbonat	A02AH
+Natriumedetat SA	S01XA05
+Natriumhydrogenkarbonat Braun	B05BB01
+Natriumhydrogenkarbonat NAF	A01AD11
+Natriumhydrogenkarbonat SA	A07C
+Natriumklorid B. Braun	B05BB01
+Natriumklorid Baxter	B05BB01
+Natriumklorid Baxter Viaflo	B05BB01
+Natriumklorid Fresenius Kabi	V07AB
+Natriumklorid NAF	A12CA01
+Natriumklorid SA	S01
+Natriumklorid i Emulgon	S01XA03
+Natriumklorid-Glucos Baxter Viaflo	B05BB02
+Natriumlaurylsulfat SA	V07
+Natriumperklorat SA	H03BC
+Natriumsitrat NAF	V07AD
+Natriumsitrat SA	A16AA
+Natriumsitrat ullevål	A02A
+Natriumsulfatdekahydrat SA	A12CA02
+Natriumtiosulfat SA	V07
+Natriumvalproat SA	N03AG01
+Natron NAF	A02AH
+Natulan	L01XB01
+Nature-Throid	H03AA05
+Navelbine	L01CA04
+Navirel	L01CA04
+Navoban	A04AA03
+Naxogin	P01AB06
+Nazaren	R01AA07
+Nebcina	J01GB01
+Nebido	G03BA03
+Nebivolol	C07AB12
+NebuPent	P01CX01
+Nefazodone	N06AX06
+Negatol dental	A01AD11
+NeisVac-C	J07AH07
+Nemdatine	N06DX01
+Neo-Mercazole	H03BB01
+NeoRecormon	B03XA01
+Neogynona	G03AA07
+Neoprofen	C01EB16
+Neostigmin NAF	N07AA01
+Neotigason	D05BB02
+Nephromag	V09CA03
+Nepresol	C02DB01
+Nesacaine Life	N01BA04
+Nesacaine-MPF	N01BA04
+Nesacaine-mpf	N01BA04
+Neulactil	N05AC01
+Neulasta	L03AA13
+Neupogen	L03AA02
+Neupro	N04BC09
+NeuroBloc	M03AX01
+Neurobion	A11DB
+Neurontin	N03AX12
+Nevanac	S01BC10
+Nexavar	L01XE05
+Nexavir	D
+Nexium	A02BC05
+Nexodal	V03AB15
+Nexplanon	G03AC08
+Niacinamide	A11HA01
+Niaspan	C10AD02
+Nicobion	A11HA01
+Nicorette	N07BA01
+Nicorette Freshmint	N07BA01
+Nicorette Fruitmint	N07BA01
+Nicorette Inhalator	N07BA01
+Nicotinell	N07BA01
+Nicotinell Mint	N07BA01
+Nicovel	N07BA01
+Nifedipin	C08CA05
+Nifehexal	C08CA05
+Niferex	B03AA01
+Nikotinamid NAF	A11HA01
+Nikotinsyre	C04AC01
+Nimbex	M03AC11
+Nimenrix	J07AH08
+Nimoral	P01AB06
+Nimotop	C08CA06
+Niontix	N01AX13
+Nitrazepam	N05CD02
+Nitrazepam SA	N05CD02
+Nitro-Dur	C01DA02
+Nitroglycerin Nycomed	C01DA02
+Nitrolingual	C01DA02
+Nitropress	C02DD01
+Nitropress Life Medical	C02DD01
+Nitroven	C01DA02
+Nivemycin	A07AA01
+Nivestim	L03AA02
+Nix	P03AC04
+Nobligan	N02AX02
+Nobligan Retard	N02AX02
+Nolvadex	L02BA01
+Nootropil	N06BX03
+Noradrenalin	C01CA03
+Noradrenalin Abcur	C01CA03
+Noradrenalin NAF	C01CA03
+Norcuron	M03AC03
+Norditropin NordiFlex	H01AC01
+Norditropin SimpleXx	H01AC01
+Noritren	N06AA10
+Norlevo	G03AD01
+Normax (co-danthrusate)	A06AB53
+Normix	A07AA11
+Normorix Mite	C03EA01
+Normosang	B06AB
+Norprolac	G02CB04
+Norprolac Startpakning	G02CB04
+Norspan	N02AE01
+Norvasc	C08CA01
+Norvir	J05AE03
+Noskapin	R05DA07
+Novalgin	N02BB02
+Novaluzid	A02AD01
+Novantrone	L01DB07
+Novastan	B01AE03
+NovoNorm	A10BX02
+NovoRapid	A10AB05
+NovoRapid Flexpen	A10AB05
+NovoRapid Penfill	A10AB05
+NovoSeven	B02BD08
+NovoThirteen	B02BD11
+Novofem	G03FB05
+Novomix 30 Flexpen	A10AD05
+Novomix 30 Penfill	A10AD05
+Novonorm	A10BX02
+Novothyral 100	H03AA03
+Noxafil	J02AC04
+Nozinan	N05AA02
+Nplate	B02BX04
+NuTRIflex Lipid peri	B05BA10
+NuTRIflex Lipid plus	B05BA10
+NuTRIflex Lipid special	B05BA10
+Nuelin Depot	R03DA04
+Nulojix	L04AA28
+Numeta G13E	B05BA10
+Numeta G16E	B05BA10
+Numeta G19E	B05BA10
+Nurofen	M01AE01
+Nurofen Junior	M01AE01
+Nutri-A-25	A11JB
+Nutriflex Lipid peri	B05BA10
+Nutriflex Lipid plus	B05BA10
+Nutriflex Lipid special	B05BA10
+Nutriflex Omega plus	B05BA10
+Nutriflex Omega special	B05BA10
+Nutriflex peri	B05BA10
+Nutriflex plus	B05BA10
+Nutriflex special	B05BA10
+Nutrineal PD4 med aminosyrer 1,1%	B05DB
+NutropinAq	H01AC01
+Nuvaring	G02BB01
+Nycoplus B-Tonin	A11EA
+Nycoplus B-Total	A11EA
+Nycoplus C-vitamin	A11GA01
+Nycoplus Calcigran	A12AX
+Nycoplus E-vitamin	A11HA03
+Nycoplus Ferro-Retard	B03AA07
+Nycoplus Folsyre	B03BB01
+Nycoplus Magnesium	A12CC30
+Nycoplus Neo-Fer	B03AA02
+Nystatin	D01AA01
+Nystatin kragerø	A07AA02
+Nystatin-Klorheksidin ullevål	A01AB11
+OFA avførende urter NAF	A06AB20
+OFA urtete NAF	A06AB20
+Octagam	J06BA02
+Octanate	B02BD02
+Octanine	B02BD04
+Octaplas Blodtype 0	B05AA02
+Octaplas Blodtype A	B05AA02
+Octaplas Blodtype AB	B05AA02
+Octaplas Blodtype B	B05AA02
+Octaplex	B02BD01
+Octostim	H01BA02
+Octostim 2care4	H01BA02
+Octostim orifarm	H01BA02
+Octreotide Hospira	H01CB02
+Oculac	S01XA20
+Oculotect	S01XA20
+Oftagel	S01XA20
+Oftan	S01ED01
+Oksaliplatin SUN	L01XA03
+Oksybuprokain SA	N01BA
+Oksybutynin NAF	G04BD04
+Oktreotid SUN	H01CB02
+Olanzapin Orion	N05AH03
+Olanzapin Sandoz	N05AH03
+Olanzapine Accord	N05AH03
+Olanzapine Teva	N05AH03
+Olbetam	C10AD06
+Oliclinomel N4-550E	B05BA10
+Oliclinomel N6-900E	B05BA10
+Oliclinomel N7-1000E	B05BA10
+Olimel N5E	B05BA10
+Olimel N7E	B05BA10
+Olimel N9	B05BA10
+Olimel N9E	B05BA10
+Olimel Perifer N4E	B05BA10
+Olje-Glycerol NAF	A06AG04
+Oljeklyster ullevål	A06AA
+Olmetec	C09CA08
+Olmetec Comp	C09DA08
+Olmifon	N06BX17
+Olopeg	A06AD15
+Olysio	J05AE14
+Omacor	C10AX06
+Omegaven	B05BA02
+Omeprazol Bluefish	A02BC01
+Omeprazol Pensa	A02BC01
+Omeprazol SA	A02BC01
+Omeprazole Teva	A02BC01
+Omni-Sorb	S01XA03
+Omnic	G04CA02
+Omnipaque	V08AB02
+Omniscan	V08CA03
+Omnitrope	H01AC01
+Omslagsvann NAF	D08AB
+Onbrez Breezhaler	R03AC18
+Oncaspar	L01XX24
+Oncaspar specific	L01XX24
+OncoTICE	L03AX03
+Ondansetron Accord	A04AA01
+Ondansetron Actavis	A04AA01
+Ondansetron Amneal	A04AA01
+Ondansetron BMM Pharma	A04AA01
+Ondansetron Bluefish	A04AA01
+Ondansetron Fresenius Kabi	A04AA01
+Ondansetron Hameln	A04AA01
+Ondansetron Orifarm	A04AA01
+Ondansetron Pfizer	A04AA01
+Ondansetron Vian	A04AA01
+Onglyza	A10BH03
+Onytec	D01AE14
+Opatanol	S01GX09
+Ophtasiloxan	S01XA20
+Opium i fortynnet sprit SA	A07DA02
+Opiumdråper/tinktur ullevål	A07DA02
+Oprymea	N04BC05
+Opsumit	C02KX04
+Optimark	V08CA06
+Optinate Septimum	M05BA07
+Optiray	V08AB07
+Optiray 240	V08AB07
+Optiray 300	V08AB07
+Optiray 350	V08AB07
+Optison	V08DA01
+Oracea	J01AA02
+Oralcon	G03AA07
+Oralpädon	A07CA
+Oramorph	N02AA01
+Orap	N05AG02
+Orap Forte	N05AG02
+Oraqix	N01BB20
+Orencia	L04AA24
+Orfadin	A16AX04
+Orfiril	N03AG01
+Orfiril Retard	N03AG01
+Orfiril long	N03AG01
+Orfiril retard	N03AG01
+Orgalutran	H01CC01
+Orivast	N06DA03
+Orodek	M01AE17
+Orudis	M01AE03
+Osigraft	M05BC02
+Ospolot	N03AX03
+Osvaren	V03AE04
+Otrivin	R01AA07
+Otrivin Comp	R01AB06
+Ovesterin	G03CA04
+Ovitrelle	G03GA08
+Ovixan	D07AC13
+Oxaliplatin Actavis	L01XA03
+Oxaliplatin Fresenius Kabi	L01XA03
+Oxaliplatin Hospira	L01XA03
+Oxaliplatin Teva	L01XA03
+Oxibuprokain Minims	S01HA02
+Oxis Turbuhaler	R03AC13
+Oxsoralen	D05BA02
+Oxsoralen Euromedica	D05BA02
+OxyContin	N02AA05
+OxyNorm	N02AA05
+Oxybutyninhydroklorid	G04BD04
+Oxycodone Actavis	N02AA05
+Oxycodone Orifarm	N02AA05
+Oxytetracycline	J01AA06
+Oxytocin	H01BB02
+Ozurdex	S01BA01
+P-5-P	A11HA06
+PBS fosfatbuffer pH 7,3 SA	V04CX
+Pabal	H01BB03
+Pabrinex	A11EB
+Pabrinex IM High Potency	A11EB
+Pabrinex IM high potency	A11EB
+Pabrinex IV High Potency	A11EB
+Pabrinex IV high potency	A11EB
+Pabrinex IV high potency campus	A11EB
+Pabrinex IV high potency life	A11EB
+Paclitaxel Actavis	L01CD01
+Paclitaxel Ebewe	L01CD01
+Paclitaxel Fresenius Kabi	L01CD01
+Paclitaxel Hospira	L01CD01
+Palbociclib	L01XE
+Palexia	N02AX06
+Palexia depot	N02AX06
+Palladon	N02AA03
+Paludrine	P01BB01
+Pamidronat Meda	M05BA03
+Pamidronatdinatrium Hospira	M05BA03
+Pamol	N02BE01
+Pamorelin	L02AE04
+Pancuronium	M03AC01
+Pancuronium campus	M03AC01
+Pandemrix	J07BB02
+Panodil	N02BE01
+Panodil Zapp	N02BE01
+Pantoloc Control	A02BC02
+Pantoprazol Actavis	A02BC02
+Pantoprazol Pensa	A02BC02
+Pantoprazol Sandoz	A02BC02
+Papaverin	A03AD01
+Papaverin NAF	A03AD01
+Papaverin/Regitin	G04BE30
+Papaverine	A03AD01
+Paracet	N02BE01
+Paracetamol	N02BE01
+Paracetamol Actavis	N02BE01
+Paracetamol B. Braun	N02BE01
+Paracetamol Fresenius Kabi	N02BE01
+Paracetamol Panpharma	N02BE01
+Paracetamol SA	N02BE01
+Paracetamol braun	N02BE01
+Paracetamol ratiopharm	N02BE01
+Paracetamol ullevål	N02BE01
+Paracetduo	N02BE51
+Paraffin flytende steril	D02AC
+Parafinemulsjon NAF	A06AA01
+Paraflex	M03BB03
+Paralen	N02BE51
+Paralgin Forte	N02AA59
+Paralgin Major	N02AA59
+Paralgin Minor	N02AA59
+Paramax Comp	N02AA59
+Parlodel	G02CB01
+Paroxetin Actavis	N06AB05
+Paroxetin Amneal	N06AB05
+Paroxetin Hexal	N06AB05
+Paroxetin Pfizer	N06AB05
+Patentblau V 2care4	V04CX
+Patentblau V specific	V04CX
+Pavulon	M03AC01
+Pedamix SA	B05BA10
+Pedea	C01EB16
+Peditrace	B05XA31
+PegIntron	L03AB10
+Pegasys	L03AB11
+Penicillin Actavis	J01CE01
+Penomax	J01CA08
+Pentam	P01CX01
+Pentasa	A07EC02
+Pentasa Sachet	A07EC02
+Pentazocine	N02AD01
+Pentobarbital SA	N05CA01
+Pentocur	N01AF03
+Pentothal-Natrium	N01AF03
+Pentrax	D05AA
+Pentrexyl	J01CA01
+Pepcid	A02BA03
+Pepcidduo	A02BA53
+Pepcidtwo	A02BA53
+Pepto-Bismol	A07BB
+Peratsin	N05AB03
+Perfadex	V07AB
+Perfalgan	N02BE01
+Pergotime	G03GB02
+Pergoveris	G03GA30
+Periactin	R06AX02
+Perigona	M01AX05
+Perindoprilarginin Servier	C09AA04
+Periochip	A01AB03
+Peritol	R06AX02
+Perjeta	L01XC13
+Perphenazin	N05AB03
+Persantin	B01AC07
+Persantin Retard	B01AC07
+Perycit	C10AD01
+Petidin	N02AB02
+Petidin NAF	N02AB02
+Petidin ullevål	N02AB02
+Petnidan	N03AD01
+Pevaryl	D01AC03
+Pevaryl Depot	G01AF05
+Pevaryl Depot Kombinasjonspakning	D01AC03
+Pevaryl Kombinasjonspakning	G01AF05
+Pevisone	D01AC20
+PharmaNAC	R05CB01
+Pheburane	A16AX03
+Phenergan	R06AD02
+Phenhydan	N03AB02
+Phenindione	B01AA02
+Phenobarbital	N03AA02
+Phenylephrine	C01CA06
+Phenylephrine Hydrochloride	C01CA06
+Phenylephrine Minims	S01FB01
+Phos-Ex	A12AA12
+Phosphate-sandoz	A12
+Phosphoral	A06AD17
+Phostal 5-gress	V01AA02
+Phostal D pteronyssinus	V01AA03
+Phostal burot	V01AA10
+Phostal or	V01AA05
+Phoxilium 1,2 mmol/l fosfat	B05ZB
+Physioneal 35 Glucose 13,6 mg/ml	B05DB
+Physioneal 35 Glucose 13,6 mg/ml Clear-Flex	B05DB
+Physioneal 35 Glucose 22,7 mg/ml	B05DB
+Physioneal 35 Glucose 22,7 mg/ml Clear-Flex	B05DB
+Physioneal 40 Glucose 13,6 mg/ml	B05DB
+Physioneal 40 Glucose 13,6 mg/ml Clear-Flex	B05DB
+Physioneal 40 Glucose 22,7 mg/ml	B05DB
+Physioneal 40 Glucose 22,7 mg/ml Clear-Flex	B05DB
+Physioneal 40 Glucose 38,6 mg/ml	B05DB
+Physioneal 40 Glucose 38,6 mg/ml Clear-Flex	B05DB
+Physiotens	C02AC05
+Picato	D06BX02
+Picoprep	A06AB58
+Pigmanorm	D11AX
+Pilocarpine	S01EB01
+Pilocarpine Minims	S01EB01
+Pilokarpin	S01EB01
+Pilokarpin Minims	S01EB01
+Pilokarpin SA	S01EB01
+Pimpinelletinktur NAF	R05CA10
+Pinex	N02BE01
+Pinex Forte	N02AA59
+Pinex Major	N02AA59
+Pioglitazon Teva	A10BG03
+Pip/Taz VM stragen SA	J01CR05
+Piperacillin/Tazobactam FarmaPlus	J01CR05
+Piperacillin/Tazobactam Fresenius Kabi	J01CR05
+Piperacillin/Tazobactam Stragen	J01CR05
+Piportil Depot	N05AC04
+Piptazira	J01CR05
+Piroxicam Mylan	M01AC01
+Pitressin	H01BA01
+Pixuvri	L01DB11
+Placebo SA	V07A
+Plaquenil	P01BA02
+Plasmalyte	B05BB01
+Plasmodex	B05AA05
+Plavix	B01AC04
+Plenadren	H02AB09
+Plendil	C08CA02
+Pliapel	N01BB52
+Pneumovax	J07AL01
+Podofylline SA	D06BB04
+Polaramin	R06AB02
+Polaramin Euromedica	R06AB02
+Polaramine	R06AB02
+Polaramine 2care4	R06AB02
+Polaramine life	R06AB02
+Pomalyst	L04AX06
+Posicor	C08CX01
+Postafen	R06AE05
+Postinor	G03AD01
+Potactasol	L01XX17
+Pradaxa	B01AE07
+Pramipexol Bluefish	N04BC05
+Pramipexol Sandoz	N04BC05
+Pramipexole Orion	N04BC05
+Pranolol	C07AA05
+Pravachol	C10AA03
+Pravastatin Sandoz	C10AA03
+Pravastatin Teva	C10AA03
+Precedex	N05CM18
+Precortalon Aquosum	H02AB06
+Precosa	A07FA02
+Pred-Clysma	A07EA01
+Predni-POS	S01BA04
+Prednisolon	H02AB06
+Prednisolon SA	H02AB06
+Prednisolone	H02AB06
+Prednisolone Minims	S01BA04
+Prednison dak	H02AB07
+Preflucel	J07BB02
+Pregnenolone	A14A
+Pregnyl	G03GA01
+Premarin	G03CA57
+Premixel	B05B
+Preotact	H05AA03
+Prepulsid	A03FA02
+Prevenar 13	J07AL02
+Prezista	J05AE10
+Priadel	N05AN01
+Prialt	N02BG08
+Priligy	G04BX14
+Primacine	J01FA01
+Primaquine	P01BA03
+Primene	B05BA01
+Primidon	N03AA03
+Primolut N	G03DC02
+Primolut-N	G03DC02
+Primovist	V08CA10
+Prioderm	P03AX03
+Priorix	J07BD52
+Prismasol 2 mmol/l Kalium	B05ZB
+Prismasol 4 mmol/l Kalium	B05ZB
+Privigen	J06BA02
+Pro-Epanutin	N03AB05
+Pro-Viron	G03BB01
+ProHance	V08CA04
+Probecid	M04AB01
+Procain	N01BA02
+Prochlorperazine	N05AB04
+Procoralan	C01EB17
+Procren Depot	L02AE02
+Proctosedyl	C05AA01
+Progesteron NAF	G03DA04
+Progesteron ullevål	G03DA04
+Proglicem	V03AH01
+Proglycem	V03AH01
+Prograf	L04AD02
+Progynova	G03CA03
+Prokain SA	N01BA02
+Prokainamid	C01BA02
+Prokainhydroklorid SA	B05X
+Prolastina	B02AB02
+Proleukin	L03AC01
+Prolia	M05BX04
+Promiten	B05AA05
+Promixin	J01XB01
+Propal Retard	C07AA05
+Propavan	N05CM06
+Propecia	D11AX10
+Propofol-Lipuro	N01AX10
+Propolipid	N01AX10
+Propranolol	C07AA05
+Propranolol ullevål	C07AA05
+Propyltiouracil NAF	H03BA02
+Proscar	G04CB01
+Prostin 15M	G02AD04
+Prostin E2	G02AD02
+Prostinfenem	G02AD04
+Prostivas	C01EA01
+Protaminsulfat LEO Pharma	V03AB14
+Prothromplex	B02BD01
+Protopic	D11AH01
+Provaqomyl	P01BB51
+Provera	G03DA02
+Proviron	G03BB01
+Proxan	M01AE02
+Pulmicort	R03BA02
+Pulmicort Turbuhaler	R03BA02
+Pulmozyme	R05CB13
+Puregon	G03GA06
+Puri-Nethol	L01BB02
+Purinethol	L01BB02
+Pursennid	A06AB06
+Pyrazinamid SA	J04AK01
+Pyrazinamide	J04AK01
+Pyridoksin NAF	A11HA02
+Pyridoksin SA	A11HA02
+Pyridoxin recip	A11HA02
+Pyrisept	D08AJ03
+Qlaira	G03AB08
+Questran	C10AC01
+Questran Loc	C10AC01
+Quetiapin Actavis	N05AH04
+Quetiapin Hexal	N05AH04
+Quetiapin Orifarm	N05AH04
+Quetiapin Orifarm Generics	N05AH04
+Quetiapin Sandoz	N05AH04
+Quetiapine Teva	N05AH04
+Quinidine sulfate	C01BA01
+Quinidine sulfate SR	C01BA01
+Qutenza	N01BX04
+Rabies-Imovax	J07BG01
+Rabipur	J07BG01
+Racemisk Amfetamin NAF	N06BA01
+Ramipril Actavis	C09AA05
+Ramipril Hexal	C09AA05
+Ranexa	C01EB18
+Ranitidin Sandoz	A02BA02
+Ranitidin ratiopharm	A02BA02
+Ranitidine	A02BA02
+Rapamune	L04AA10
+Rapifen	N01AH02
+Rapilysin	B01AD07
+Rapiscan	C01EB21
+Rapydan	N01BB52
+Rasilez	C09XA02
+ReFacto AF	B02BD02
+ReadiSorb Liposomal Glutathione	V03AB32
+ReadiSorb Methyl B12	B03BA05
+Rebetol	J05AB04
+Rebif	L03AB07
+Rebif startpakning	L03AB07
+Recofol	N01AX10
+Recrea Forte	D11AX01
+Rectogesic	C05AE01
+Red Yeast Rice	C10
+Refresh	S01XA20
+Regitin	C04AB01
+Rehydrex med glucos	B05BB02
+Relefact LH-RH	V04CM01
+Relefact LH-RH specific	V04CM01
+Relenza	J05AH01
+Relifex	M01AX01
+Relistor	A06AH01
+Relpax	N02CC06
+Reltebon Depot	N02AA05
+Relvar Ellipta	R03AK10
+Remeron	N06AX11
+Remeron-S	N06AX11
+Remicade	L04AB02
+Remifemin	G02CX04
+Remifentanil Actavis	N01AH06
+Remifentanil B. Braun	N01AH06
+Remifentanil Orion	N01AH06
+Reminyl	N06DA04
+Remodulin	B01AC21
+Removab	L01XC09
+Remsima	L04AB02
+Renagel	V03AE02
+Renavit	A11EX
+Renavit Euromedica	A11EX
+Renitec	C09AA02
+Renitec Comp	C09BA02
+Renitec Comp Mite	C09BA02
+Renvela	V03AE02
+ReoPro	B01AC13
+Repevax	J07CA02
+Replagal	A16AB03
+Requip	N04BC04
+Requip Depot	N04BC04
+RescueFlow	B05AA05
+Resochin	P01BA01
+Resolor	A06AX05
+Resonium-Calcium	V03AE01
+Restasis	S01XA18
+Restenil	N05BC01
+Resveratrol	C01EB
+Retacrit	B03XA01
+Retrovir	J05AF01
+Reumacon	M01CX
+Revatio	G04BE03
+Revlimid	L04AX04
+Revolade	B02BX05
+Reyataz	J05AE08
+Rheomacrodex Med Natriumklorid	B05AA05
+Rhesonativ	J06BB01
+Rhinocort	R01AD05
+Rhinocort Turbuhaler	R01AD05
+Rhinox	R01AA05
+Rhophylac	J06BB01
+Riamet	P01BF01
+Riamet euromedica	P01BF01
+Riastap	B02BB01
+Riboflavin	A11HA04
+Ridaura	M01CB03
+Ridutox	V03AB32
+Rienso	B03AC
+Rifadin	J04AB02
+Rifater euromedica	J04AM05
+Rifinah	J04AM02
+Rifinah Euromedica	J04AM02
+Rifinah euromedica	J04AM02
+Rigabalsam og Honning NAF	R05CA10
+Rilutek	N07XX02
+Riluzol Actavis	N07XX02
+Rimactan	J04AB02
+Rimactane	J04AB02
+Rimactazid	J04AM02
+Rimcure	J04AM05
+Rimstar	J04AM06
+Rinexin	R01BA01
+Ringer-Acetat Baxter Viaflo	B05BB01
+Ringer-Acetat Braun	B05BB01
+Ringer-Acetat Fresenius Kabi	B05BB01
+Ringer-lactat	B05BB01
+Ringerfundin	B05BB01
+Risedronat Orifarm	M05BA07
+Risperdal	N05AX08
+Risperdal Consta	N05AX08
+Risperidon Sandoz	N05AX08
+Rispolept Consta	N05AX08
+Ritalin	N06BA04
+Ritalin SR	N06BA04
+Rivastigmin Orion	N06DA03
+Rivotril	N03AE01
+RoActemra	L04AC07
+Roaccutan	D10BA01
+Robinul	A03AB02
+Robinul Forte	A03AB02
+Robinul-Neostigmin	N07AA51
+Robinul-Neostigmine	N07AA51
+Rocaltrol	A11CC04
+Roceron	L03AB04
+Rohypnol	N05CD03
+Rondomycin	J01AA05
+Ropinirol Krka	N04BC04
+Ropinirol Mylan	N04BC04
+Ropivacain Fresenius Kabi	N01BB09
+Rosazol	D06BX01
+RoseGlo	S01JA02
+RotaTeq	J07BH
+Rotarix	J07BH01
+Rovamycin	J01FA02
+Roxithromycin	J01FA06
+Rozex	D06BX01
+Rubira	G03AA12
+Ruconest	B06AC04
+Rytmonorm	C01BC03
+S-Ketamin	N01AX14
+S-ketamin	N01AX14
+S2 Racepinephrine	R03AA01
+S2 Racepinephrine life	R03AA01
+S2 Racepinephrine specific	R03AA01
+SMOFlipid	B05BA02
+SPT 106 Mugwort	V04CL
+SPT 108 Birch	V04CL
+SPT 115 Alder	V04CL
+SPT 129 Hazel	V04CL
+SPT 177 Timothy grass	V04CL
+SPT 306 Dog epithelia	V04CL
+SPT 308 Rabbit epithelia	V04CL
+SPT 309 Cat epithelia	V04CL
+SPT 311 Guinea pig epithelia	V04CL
+SPT 314 Horse epithelia	V04CL
+SPT 315 Rat epithelia	V04CL
+SPT 400 Alternaria tenuis	V04CL
+SPT 401 Aspergillus fumigatus	V04CL
+SPT 405 Cladosporium herbarum	V04CL
+SPT 513 Cod	V04CL
+SPT 526 Shrimp	V04CL
+SPT 538 Peanut	V04CL
+SPT 542 Hazelnut	V04CL
+SPT 581 Pea	V04CL
+SPT 599 Wheat flour	V04CL
+SPT 601 Cow's milk	V04CL
+SPT 604 Hen's egg (whole)	V04CL
+SPT 610 Hen's egg (white)	V04CL
+SPT 708 Dermatophagoides farinae	V04CL
+SPT 725 Dermatophagoides pteronyssinus	V04CL
+SPT 901 Negativ control	V04CL
+SPT 902 Positiv control	V04CL
+Sabrilex	N03AG04
+Saccharomyces boulardii	A07FA02
+Saflutan	S01EE05
+Saforide	D08AL
+Saizen	H01AC01
+Salagen	N07AX01
+Salazopyrin	A07EC01
+Salazopyrin EN	A07EC01
+Salbutamol Arrow	R03AC02
+Salbuvent	R03AC02
+Salidex	B05BB02
+Salisylsyre NAF olje	D02AF
+Salisylsyre NAF vaselin	D02AF
+Salisylsyre ullevål	D02AF
+Salisyltalg NAF	D02AF
+Salofalk	A07EC02
+Saltsyre SA	B05XA13
+Salvapar	L02AE04
+Samin	M01AX05
+Sammensatt Efedrinsirup NAF	R05FA02
+Samsca	C03XA01
+Sancuso	A04AA02
+Sandimmun	L04AD01
+Sandimmun Neoral	L04AD01
+Sandomigrin	N02CX01
+Sandostatin	H01CB02
+Sandostatin LAR	H01CB02
+Sarotex	N06AA09
+Sarotex Retard	N06AA09
+Sativex	N02BG10
+Sauramide	L04AX02
+Savene	V03AF02
+Scandonest Plain	N01BB03
+Scheriproct	C05AA04
+Scheriproct kombinasjonspakning	C05AA04
+Scopoderm	A04AD01
+Scott-Mathiesens hudvann NAF	D10AX30
+Sebiprox	D01AE14
+Sebivo	J05AF11
+Secrelux	V04CK01
+Secrelux abcur	V04CK01
+Secrelux campus	V04CK01
+Seebri Breezhaler	R03BB06
+Selegilin Mylan	N04BD01
+Selexid	J01CA08
+Selincro	N07BB05
+Selo-Zok	C07AB02
+Seloken	C07AB02
+Selozok	C07AB02
+Selsun	D11AC03
+Selukos	D11AC03
+Selutrio 40	B05D
+Semap	N05AG03
+Sendoxan	L01AA01
+Septocaine	N01BB58
+Septocaine Forte	N01BB58
+Septopal	J01GB03
+Septopal Mini	J01GB03
+Septrin	J01EE01
+Septrin life	J01EE01
+Sequidot	G03FB05
+Seractiv	M01AE14
+Serdolect	N05AE03
+Seretide	R03AK06
+Seretide Diskus	R03AK06
+Serevent	R03AC12
+Serevent Diskus	R03AC12
+Seroquel	N05AH04
+Seroquel Depot	N05AH04
+Seroxat	N06AB05
+Sertralin Bluefish	N06AB06
+Sertralin Hexal	N06AB06
+Sevikar	C09DB02
+Sevofluran Baxter	N01AB08
+Sevorane	N01AB08
+Sibelium	N07CA03
+Sifrol	N04BC05
+Signifor	H01CB05
+Sildenafil Actavis	G04BE03
+Sildenafil SA	G04BE03
+Sildenafilsitrat SA	G04BE03
+Silkis	D05AX03
+Siloxan	A03AX13
+Silver nitrate	D08AL01
+Simdax	C01CX08
+Simplex	S01XA20
+Simponi	L04AB06
+Simulect	L04AC02
+Simvastatin Amneal	C10AA01
+Simvastatin Bluefish	C10AA01
+Simvastatin Hexal	C10AA01
+Simvastatin Krka	C10AA01
+Simvastatin Pfizer	C10AA01
+Simvastatin Ranbaxy	C10AA01
+Simvastatin Sandoz	C10AA01
+Simvastatin Teva	C10AA01
+Sinalfa	G04CA03
+Sinalfa Startpakning	G04CA03
+Sinemet	N04BA02
+Sinemet 12,5/50	N04BA02
+Sinemet 25/100	N04BA02
+Sinemet 25/250	N04BA02
+Sinemet Depot Mite	N04BA02
+Sinequan	N06AA12
+Singulair	R03DC03
+Sinkoksid i cetylan SA	D02AB
+Sinksulfat SA	A12CB01
+Siqualone Dekanoat	N05AB02
+Sirdalud	M03BX02
+Sirdalud Retard	M03BX02
+Sirturo	J04AK05
+Sitratmikstur Fenstad SA	B05CB02
+Skinoren	D10AX03
+Skopolamin NAF	N05CM05
+Skopolamin SA	S01FA02
+SmofKabiven	B05BA10
+SmofKabiven Elektrolytfri	B05BA10
+SmofKabiven Elektrolyttfri	B05BA10
+SmofKabiven Perifer	B05BA10
+Sobril	N05BA04
+Sodium chloride BP	B05XA03
+Sofradex	S03CA01
+Solaraze	D11AX18
+Solhattinktur NAF	R05
+Solian	N05AL05
+Soliris	L04AA25
+Solu-Cortef	H02AB09
+Solu-Decortin H	H02AB06
+Solu-Medrol	H02AB04
+Solupred	H02AB06
+Soluprick Alternaria alternata	V04CL
+Soluprick Cladosporium herbarum	V04CL
+Soluprick Eggehvite	V04CL
+Soluprick Hamsterhår	V04CL
+Soluprick Hasselnøtt	V04CL
+Soluprick Hvetemel	V04CL
+Soluprick Jordnøtt	V04CL
+Soluprick Kaninhår	V04CL
+Soluprick Kuhår	V04CL
+Soluprick Kumelk rå	V04CL
+Soluprick Mandel	V04CL
+Soluprick Marsvinhår	V04CL
+Soluprick Negativ kontroll	V04CL
+Soluprick Positiv kontroll	V04CL
+Soluprick Reke	V04CL
+Soluprick SQ Bigift	V04CL
+Soluprick SQ Bjørk	V04CL
+Soluprick SQ Burot	V04CL
+Soluprick SQ Dermatophagoides Pteronyssinus	V04CL
+Soluprick SQ Dermatophagoides farinae	V04CL
+Soluprick SQ Gråor	V04CL
+Soluprick SQ Hassel	V04CL
+Soluprick SQ Hestehår	V04CL
+Soluprick SQ Hundehår	V04CL
+Soluprick SQ Kattehår	V04CL
+Soluprick SQ Latex	V04CL
+Soluprick SQ Raigress	V04CL
+Soluprick SQ Timotei	V04CL
+Soluprick SQ Vepsegift	V04CL
+Soluprick Soyabønne	V04CL
+Soluprick Torsk	V04CL
+Soluvit	B05XC
+Solvezink	A12CB01
+Solvipect	R05CA10
+Solvipect Comp	R05FA02
+Somac	A02BC02
+Somac Control	A02BC02
+Somavert	H01AX01
+Sonazoid	V08DA06
+Sondegel SA	V07A
+SonoVue	V08DA05
+Sorbangil	C01DA08
+Sorbitol SA	A06AD18
+Sotacor	C07AA07
+Sotalol	C07AA07
+Sotalol Mylan	C07AA07
+Sovaldi	J05A
+Sp SQ Gråor	V04CL
+Spektramox	J01CR02
+Spersadex	S01BA01
+Spersadex Med Kloramfenikol	S01CA01
+Spersadex comp	S01CA01
+Spersallerg	S01GA52
+Spiriva	R03BB04
+Spirix	C03DA01
+Spironolakton SA	C03DA01
+Sporanox	J02AC02
+Sprycel	L01XE06
+Stablon	N06AX14
+Stalevo	N04BA03
+Staloral 5-gress	V01AA02
+Staloral bjørk	V01AA05
+Staloral burot	V01AA10
+Staloral hest	V01AA11
+Staloral hest startpakning	V01AA11
+Staloral hund	V01AA11
+Staloral hund startpakning	V01AA11
+Staloral katt	V01AA11
+Staloral katt startpakning	V01AA11
+Staloral midd	V01AA03
+Staloral midd mix	V01AA03
+Staloral or	V01AA05
+Stamaril	J07BL01
+Standard EDA blanding SA	N01AH51
+Starlix	A10BX03
+Steinkulltjære i Unguentum Merck SA	D05A
+Steinkulltjære i cetylan SA	D05A
+Steinkulltjære i sinkpasta SA	D05A
+Steinkulltjære/sinkoksid i cetylan SA	D05A
+Stelara	L04AC05
+Stemetil	N05AB04
+Stemflova	H01BA04
+Steril Sprit NAF	V03AB16
+Sterilt vann B. Braun	V07AB
+Sterilt vann Baxter Viaflo	V07AB
+Sterilt vann Fresenius Kabi	V07AB
+Sterk Hostesirup NAF	R05DA20
+Sterogyl	A11CC01
+Stesolid	N05BA01
+Stesolid Prefill	N05BA01
+Stilnoct	N05CF02
+Stilnox	N05CF02
+Stivarga	L01XE21
+Stocrin	J05AG03
+Strattera	N06BA09
+Streptase	B01AD01
+Streptase life	B01AD01
+Strepto-fatol	J01GA01
+Streptomycin sulfate	J01GA01
+Stribild	J05AR09
+Striverdi	R03AC19
+Stromectol	P02CF01
+Structolipid	B05BA02
+Suboxone	N07BC51
+Subutex	N07BC01
+Succicaptal	V03AB
+Sufenta	N01AH03
+Sulfantren SA	D05A
+Sumatriptan Bluefish	N02CC01
+Sumatriptan SUN	N02CC01
+Sumatriptan Sandoz	N02CC01
+Sumatriptan Teva	N02CC01
+Sunmedabon	G02AD06
+Superfuel	A11
+Superfuel tropical	A11
+Supralip	C10AB05
+Suprane	N01AB07
+Suprecur	L02AE01
+Suptamid	N05CD08
+Surmontil	N06AA06
+Suscard	C01DA02
+Sutent	L01XE04
+Suxinutin	N03AD01
+Sycrest	N05AH05
+Sylvant	L04AC11
+Symbicort Forte Turbuhaler	R03AK07
+Symbicort Mite Turbuhaler	R03AK07
+Symbicort Turbuhaler	R03AK07
+Symmetrel	N04BB01
+Symmetrel Euromedica	N04BB01
+Synacthen	H01AA02
+Synacthen campus	H01AA02
+Synacthen depot	H01AA02
+Synacthene Retard	H01AA02
+Synagis	J06BB16
+Synalar	D07AC04
+Synalar med Chinoform	D07BC02
+Synarel	H01CA02
+Synarela	H01CA02
+Syner-Kinase	B01AD04
+Synercid	J01FG02
+Synfase	G03AB04
+Syntaris	R01AD04
+Syntocinon	H01BB02
+Syntocinon campus	H01BB02
+Syprine	V03AX
+Sølvnitrat SA	D08AL01
+Sølvnitrat ullevål	D08AL01
+TRH Ferring	V04CJ02
+TachoSil	B02BC30
+Tachosil	B02BC30
+Tacni	L04AD02
+Tafinlar	L01XE23
+Taflotan	S01EE05
+Tagitol V	V08BA01
+Talidex	L04AX02
+Taloxa	N03AX10
+Tambocor	C01BC04
+Tambocor Retard	C01BC04
+Tamiflu	J05AH02
+Tamoxifen Mylan	L02BA01
+Tamsulosin Actavis	G04CA02
+Tamsulosin Arrow	G04CA02
+Tamsulosin Hexal	G04CA02
+Tamsulosin Mylan	G04CA02
+Tamsulosin Teva	G04CA02
+Tamsulosin ratiopharm	G04CA02
+Tapin	N01BB20
+Tarceva	L01XE03
+Tardocillin 1200	J01CE08
+Tardocillin 1200 specific	J01CE08
+Targiniq	N02AA55
+Targocid	J01XA02
+Targretin	L01XX25
+Tarivid	J01MA01
+Tasigna	L01XE08
+Tasmar	N04BX01
+Tationil	V03AB32
+Tauredon	M01CB01
+Taurine	A16
+Tavanic	J01MA12
+Tavanic specific	J01MA12
+Tavegyl	R06AA04
+Tavor	N05BA06
+Taxotere	L01CD02
+Tazocin	J01CR05
+Tears Naturale	S01XA20
+Tears Naturale uten konserveringsmiddel	S01XA20
+Tecfidera	N07XX09
+Tegretol	N03AF01
+Tegretol Retard	N03AF01
+Telfast	R06AX26
+Telmisartan Actavis	C09CA07
+Telzir	J05AE07
+Temesta	N05BA06
+Temesta Expidet	N05BA06
+Temesta Expidet campus	N05BA06
+Temgesic	N02AE01
+Temodal	L01AX03
+Temomedac	L01AX03
+Temozolomid ratiopharm	L01AX03
+Temozolomide SUN	L01AX03
+Temozolomide Teva	L01AX03
+Tenofovir disoproxil Teva	J05AF07
+Tenormin	C07AB03
+Teofyllin SA	R03DA04
+Teovent	R03DA02
+Tepadina	L01AC01
+Terbasmin Turbuhaler	R03AC03
+Terbinafin Actavis	D01BA02
+Terbinafin BMM Pharma	D01BA02
+Terbinafin Bluefish	D01BA02
+Terbinafin Hexal	D01BA02
+Terbinafin Orifarm	D01BA02
+Terbinafin ratiopharm	D01AE15
+Termo	M02AB01
+Terra-Cortril	D07CA01
+Terra-Cortril Polymyxin B	S03CA04
+Terramycin-Polymyxin B	D06AA03
+Testim	G03BA03
+Testogel	G03BA03
+Testopatch	G03BA03
+Testosteron SA	G03BA03
+Testoviron Depot campus	G03BA03
+Testoviron-Depot	G03BA03
+Tetagam P SA	J06BB02
+Tetavax	J07AM01
+Tetmodis	N07XX06
+Tetracyclin Actavis	J01AA07
+Tetracyclin Arco	J01AA07
+Tetrakain Minims	S01HA03
+Tetrakain SA	N01BA03
+Tetrakain-Adrenalin SA	N01BX
+Tetralysal	J01AA04
+Tetraspan	B05AA07
+Tetravac	J07CA02
+Tevagrastim	L03AA02
+Teveten	C09CA02
+Teveten Comp	C09DA02
+Teysuno	L01BC53
+Thalidomide Celgene	L04AX02
+Theo-Dur	R03DA04
+Ther-Biotic Complete	A07FA
+Ther-Biotic Factor 1	A07FA
+Ther-Biotic Factor 4	A07FA
+Therimin	N02BE01
+Thermogene	M02AB01
+Thioctacid	A16AX01
+Thiopental	N01AF03
+Thiopental Inresa	N01AF03
+Thiopental Inresa Life	N01AF03
+Thiopental abcur	N01AF03
+Thiopental life	N01AF03
+Thioridazin	N05AC02
+Thiotepa	L01AC01
+Thybon	H03AA02
+Thymipect NAF	R05CA10
+Thymoglobuline	L04AA04
+Thyrogen	H01AB01
+Thyroid	H03AA05
+Tiamin NAF	A11DA01
+Tiamin SA	A11DA01
+Tiamin kragerø	A11DA01
+Tiaminhydroklorid SA	A11DA01
+Tiapridex	N05AL03
+Tiberal	P01AB03
+Ticlid	B01AC05
+TicoVac	J07BA01
+TicoVac Junior	J07BA01
+Tienam	J01DH51
+Tilade	R03BC03
+Tilavist	S01GX04
+Timentin	J01CR03
+Timentin specfic	J01CR03
+Timolol maleate	C07AA06
+Timosan	S01ED01
+Tioguanine	L01BB03
+Tiosulfat NAF	V03AB06
+Tiosulfat NAF Antidot	V03AB06
+Tisseel	B02BC30
+Tisseel duo quick	B02BC30
+Titralac	A02AC01
+Tivicay	J05AX12
+Tobi	J01GB01
+Tobi Podhaler	J01GB01
+Tobramycin B. Braun	J01GB01
+Tobrasone	S01CA01
+Tobrex Depot	S01AA12
+Toctino	D11AH04
+Tofranil	N06AA02
+Toilax	A06AG02
+Toilax Kombinasjonspakning	A06AG02
+Tolvon	N06AX03
+Tomudex	L01BA03
+Topicale Assorted Flavour	N01BA05
+Topicale Raspberry	N01BA05
+Topimax	N03AX11
+Topiramat Bluefish	N03AX11
+Topiramat ratiopharm	N03AX11
+Topotecan Accord	L01XX17
+Topotecan Hospira	L01XX17
+Toradol	M01AB15
+Torecan	R06AD03
+Torem	C03CA04
+Torisel	L01XE09
+Tostran	G03BA03
+Toviaz	G04BD11
+Toxogonin	V03AB13
+Toxogonin campus	V03AB13
+Toxogonin specific	V03AB13
+Tracel	B05XA31
+Tracleer	C02KX01
+Tracrium	M03AC04
+Tractocile	G02CX01
+Trajenta	A10BH05
+Tramadol	N02AX02
+Tramadol Actavis	N02AX02
+Tramadol Hexal	N02AX02
+Tramadol ratiopharm	N02AX02
+Tramagetic OD	N02AX02
+Tramagetic Retard	N02AX02
+Trampalgin	N02AX52
+Trandate	C07AG01
+Transiderm-Nitro	C01DA02
+Transtec	N02AE01
+Tranylcypromine	N06AF04
+Trapanal	N01AF03
+Trasylol	B02AB01
+Travatan	S01EE04
+Travatan Z	S01EE04
+Trazodon	N06AX05
+Trental	C04AD03
+Treo comp	N02AA59
+Tresiba	A10AE06
+Tretinoin SA	S01
+Tri-B-100	A11EA
+Triam	H02AB08
+Triatec	C09AA05
+Tribonat	B05BB03
+Tricycline	A
+Triesence	S01BA05
+Trifluoperazine	N05AB06
+Trikloreddiksyre SA	V07A
+Trilafon	N05AB03
+Trilafon Dekanoat	N05AB03
+Trileptal	N03AF02
+Trimetoprim	J01EA01
+Trimonil Retard	N03AF01
+TrioBe	A11EA
+Trisekvens	G03FB05
+Trisenox	L01XX27
+Trisenox orifarm	L01XX27
+Trizivir	J05AR04
+Trobalt	N03AX21
+Trometamol SA	B05BB03
+Tropikamid Minims	S01FA06
+True Test	V04CL
+True Test, panel 1+2	V04CL
+True Test, panel 1+2+3	V04CL
+Trusopt	S01EC03
+Truvada	J05AR03
+Truxal	N05AF03
+Tuberkulin PPD SA	V04CF01
+Tussin	R05CA10
+Twinrix Adult	J07BC20
+Twinrix Paediatric	J07BC20
+Tygacil	J01AA12
+Typherix	J07AP03
+Typhim Vi	J07AP03
+Tysabri	L04AA23
+Tyverb	L01XE07
+Ullfett med flytende parafin ullevål	D02AC
+Uloric	M04AA03
+Ultibro Breezhaler	R03AL04
+Ultiva	N01AH06
+UltraClear PLUS	V06DB
+UltraClear PLUS pH Vanilje	V06DB
+UltraInflamX	V06DB
+Ultracare	N01BA05
+Ultraclear	V06DB
+Ultraclear Plus	V06DB
+Ultraclear Sustain	V06DB
+Ultracortenol	S01BA04
+Ultravist	V08AB05
+Uniloc	C07AB03
+Urispadol	G04BD02
+Urocit-k	A12BA02
+Uromitexan	V03AF01
+Ursofalk	A05AA02
+Ursofalk euromedica	A05AA02
+Utrogest	G03DA04
+Utrogestan	G03DA04
+Uva Ursi Max-V	G01A
+VPRIV	A16AB10
+VSL#3	A07FA01
+Vagifem	G03CA03
+Valaciclovir Sandoz	J05AB11
+Valcyte	J05AB14
+Valdoxan	N06AX22
+Valerianatinktur NAF	N05CM09
+Valerina Forte	N05CM09
+Valerina Natt	N05CM09
+Valium	N05BA01
+Vallergan	R06AD01
+Valoid	R06AE03
+Valoid Euromedica	R06AE03
+Valsartan Actavis	C09CA03
+Valsartan Sandoz	C09CA03
+Valsartan/Hydrochlorothiazide Sandoz	C09DA03
+Valsartan/Hydrochlorthiazid Actavis	C09DA03
+Valtrex	J05AB11
+Vamin 14 g N/L Elektrolyttfri	B05BA01
+Vamin 18 g N/L Elektrolyttfri	B05BA01
+Vaminolac	B05BA01
+Vanadium Krebs	A12CX
+Vancomycin	A07AA09
+Vancomycin Fresenius Kabi	J01XA01
+Vancomycin Hospira	J01XA01
+Vancomycin MIP	J01XA01
+Vancomycin Pfizer	J01XA01
+Vancomycin SA	S01
+Vancomycin Xellia	J01XA01
+Vaniqa	D11AX16
+Vanquin	P02CX01
+Vantas	L02AE05
+Varidase N	B06AA55
+Varilrix	J07BK01
+Vasolipid	B05BA02
+Vasopressin	H01BA01
+Vastarel	C01EB15
+Vaxigrip	J07BB02
+Vectavir	D06BB06
+Vectibix	L01XC08
+Vedrop	A11HA08
+Velbe	L01CA01
+Velcade	L01XX32
+Venastat	C05CX03
+Venbig	J06BB04
+Venlafaxin Bluefish	N06AX16
+Venlafaxin Krka	N06AX16
+Venlafaxin Sandoz	N06AX16
+Venlafaxin ratiopharm	N06AX16
+Venlix	N06AX16
+Venofer	B03AC
+Venofundin	B05AA07
+Venoruton	C05CA01
+Ventavis	B01AC11
+Ventmax SR	R03CC02
+Ventoline	R03CC02
+Vepesid	L01CB01
+Verakard	C08DA01
+Verapamil	C08DA01
+Veregen	D06BB12
+Vermox	P02CA01
+Verrumal	D11AF
+Versatis	N01BB02
+Verucid	D11AF
+Vesanoid	L01XX14
+Vesanoid (tretinoin)	L01XX14
+Vesanoid Euromedica	L01XX14
+Vesicare	G04BD08
+Vexol	S01BA13
+Vfend	J02AC03
+Vi-Siblin	A06AC01
+ViaSpan	V07AB
+Viagra	G04BE03
+Vibramycin-D	J01AA02
+Vibranord	J01AA02
+Victoza	A10BX07
+Victrelis	J05AE12
+Vidaza	L01BC07
+Videne antiseptic solution	D08AG02
+Videne surgical scrub	D08AG02
+Videx EC	J05AF02
+Vidisic	S01XA20
+Vigabatrin SA	N03AG04
+Vimizim	A16AB12
+Vimovo	M01AE52
+Vimpat	N03AX18
+Vincristine Hospira	L01CA02
+Vincristine Pfizer	L01CA02
+Vinorelbin Actavis	L01CA04
+Vinorelbin Ebewe	L01CA04
+Vinorelbin Hospira	L01CA04
+Viper venom antiserum, european	J06AA03
+Viper venom antitoxin	J06AA03
+ViperaTAb	J06AA03
+ViperaTAb specific	J06AA03
+Viramune	J05AG01
+Viread	J05AF07
+Virunguent salbe	D06BB01
+Visanne	G03DB08
+Viscotears	S01XA20
+Visipaque	V08AB09
+Visken	C07AA03
+Vismutmikst/vann 1:3 SA	A02BX
+Vistabel	M03AX01
+Vistide	J05AB12
+Visucloben	S01BA09
+Visudyne	S01LA01
+Vitacon	B02BA01
+Vitacon campus	B02BA01
+Vitalipid Adult	B05XC
+Vitalipid Infant	B05XC
+Vitamin A	A11CA01
+Vitamin B1	A11DA01
+Vitamin B1 life	A11DA01
+Vitamin B12	B03BA01
+Vitamin B12 Depot	B03BA03
+Vitamin B6	A11HA02
+Vitamin C	A11GA01
+Vitamin C 500	A11GA01
+Vitamin D3	A11CC05
+Vitamin E	A11HA03
+Vitamin E euromedica	A11HA03
+Vitamin E life	A11HA03
+Vival	N05BA01
+Vivotif	J07AP01
+VoLumen	V08BA01
+Volibris	C02KX02
+Volon	H02AB08
+Volon A	A01AC01
+Voltaren	M02AA15
+Voltaren Emulgel	M02AA15
+Voltaren Ophtha	S01BC03
+Voltaren Ophtha Abak	S01BC03
+Voltarol	M01AB05
+Voltarol Forte	M02AA15
+Volulyte	B05AA07
+Voluven	B05AA07
+Voraxaze	V03AF09
+Vortemiddel NAF	D11AF
+Votrient	L01XE11
+Votubia	L01XE10
+Vumon	L01CB02
+Vyvanse	N06BA12
+Väteperoxid	A01AB02
+Warfarin Orion	B01AA03
+WariAktiv	N01BX01
+Wartec	D06BB04
+Weifa C-vitamin	A11GA01
+Weifapenin	J01CE02
+WelChol	C10AC04
+Wellbutrin Retard	N06AX12
+Wellbutrin SR	N06AX12
+Wilate	B02BD06
+Willfact	B02BD10
+Wilzin	A16AX05
+X-Prep	A06AB06
+Xagrid	L01XX35
+Xalatan	S01EE01
+Xalcom	S01ED51
+Xalkori	L01XE16
+Xaluprine	L01BB02
+Xamiol	D05AX52
+Xanor	N05BA12
+Xanor Depot	N05BA12
+Xarelto	B01AF01
+Xeloda	L01BC06
+Xenazine	N07XX06
+Xenetix	V08AB11
+Xenical	A08AB01
+Xeomin	M03AX01
+Xeplion	N05AX13
+Xerodent	A01AA01
+Xgeva	M05BX04
+Xiapex	M09AB02
+Xicil	M01AX05
+Xifaxan	A07AA11
+Xigduo	A10BD15
+Xofigo	V10XX
+Xolair	R03DX05
+Xtandi	L02BB04
+Xylocain	N01BB02
+Xylocain Adrenalin	N01BB52
+Xylocain Dental Adrenalin	N01BB52
+Xylocain Viskøs	N01BB02
+Xylocain-Adrenalin	N01BB52
+Xylocain-Adrenalin euromedica	N01BB52
+Xylocaine	D04AB01
+Xylocaine Adrenaline	N01BB52
+Xylocaine-Adrenaline campus	N01BB52
+Xylocaine-Adrenaline life	N01BB52
+Xylocard	C01BB01
+Xylonest	N01BB04
+Xyloneural Forte	N01BB02
+Xyrem	N07XX04
+Xyzal	R06AE09
+Yasmin	G03AA12
+Yasmin 28	G03AA12
+Yasminelle	G03AA12
+Yasminelle 28	G03AA12
+Yaz	G03AA12
+Yellox	S01BC11
+Yentreve	N06AX21
+Yervoy	L01XC11
+Yodoxin	P01A
+Yomesan	P02DA01
+Yondelis	L01CX01
+Zaditen	S01GX08
+Zalna	D10AD51
+Zaltrap	L01XX44
+Zanaflex	M03BX02
+Zanidip	C08CA13
+Zanipress	C09BB02
+Zanosar	L01AD04
+Zanosar life	L01AD04
+Zanosar orifarm	L01AD04
+Zantac	A02BA02
+Zantac euromedica	A02BA02
+Zarontin	N03AD01
+Zaroxolyn	C03BA08
+Zarzio	L03AA02
+Zavedos	L01DB06
+Zavedos Oral	L01DB06
+Zavesca	A16AX06
+Zebinix	N03AF04
+Zeffix	J05AF05
+Zelboraf	L01XE15
+Zeldox	N05AE04
+Zelmac	A06AX06
+Zemplar	H05BX02
+Zentel	P02CA03
+Zestoretic	C09BA03
+Zestoretic Mite	C09BA03
+Zestril	C09AA03
+Zevalin	V10XX02
+Ziagen	J05AF06
+Zidoval	G01AF01
+Zidovudine	J05AF01
+Zilas	R06AX29
+Zinacef	J01DC02
+Zineryt	D10AF02
+Zinforo	J01DI02
+Ziprasidon Actavis	N05AE04
+Zipzoc salvestrømpe	D09AB01
+Zitromax	J01FA10
+Zocor	C10AA01
+Zoely	G03AA14
+Zofenil	C09AA15
+Zofenil Comp	C09BA15
+Zofran	A04AA01
+Zoladex	L02AE03
+Zoledronic acid Actavis	M05BA08
+Zoledronsyre Fresenius Kabi	M05BA08
+Zoledronsyre Hospira	M05BA08
+Zoledronsyre medac	M05BA08
+Zoledronsyre sun	M05BA08
+Zolmitriptan Actavis	N02CC03
+Zolmitriptan Sandoz	N02CC03
+Zoloft	N06AB06
+Zolpidem Actavis	N05CF02
+Zolpidem Vitabalans	N05CF02
+Zomacton	H01AC01
+Zometa	M05BA08
+Zomig	N02CC03
+Zomig Nasal	N02CC03
+Zomig Rapimelt	N02CC03
+Zonegran	N03AX15
+Zopiclone Actavis	N05CF01
+Zopiklon Mylan	N05CF01
+Zopitin	N05CF01
+Zostavax	J07BK02
+Zovirax	S01AD03
+Zutectra	J06BB04
+Zyban	N06AX12
+Zyclara	D06BB10
+Zycomb	R01AB06
+Zyloric	M04AA01
+Zymelin	R01AA07
+Zypadhera	N05AH03
+Zyprexa	N05AH03
+Zyprexa Velotab	N05AH03
+Zyrona	G03HB01
+Zyrtec	R06AE07
+Zytiga	L02BX03
+Zyvoxid	J01XX08
+Zyx	A01AD02
+bicaVera 1,5% glukose 1,25mmol Ca/l	B05DB
+bicaVera 1,5% glukose 1,75 mmol Ca/l	B05DB
+bicaVera 2,3% glukose 1,25mmol Ca/l	B05DB
+bicaVera 2,3% glukose 1,75 mmol Ca/l	B05DB
+bicaVera 4,25% glukose 1,25mmol Ca/l	B05DB
+bicaVera 4,25% glukose 1,75 mmol Ca/l	B05DB
+d Epifrin	S01EA02
+diTeBooster	J07AM51
+ellaOne	G03AD02
+kaliumklorid SA	A12BA01
