@@ -8,6 +8,7 @@ admin.autodiscover()
 
 v1_api = api.Api(api_name='v1')
 v1_api.register(fest_demo_api.MedicationResource())
+v1_api.register(fest_demo_api.MedicationSearchResource())
 
 
 urlpatterns = patterns(
